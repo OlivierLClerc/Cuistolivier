@@ -1,0 +1,91 @@
+/* styles.css */
+
+/* Import Google Fonts (or add the link in your HTML head) */
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #F9F9F9;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 20px auto; /* 20px top and bottom, auto centers horizontally */
+  padding: 20px;
+  background-color: #fff; /* Optional: gives a white background for a card-like look */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* Optional: subtle shadow */
+  border-radius: 6px; /* Optional: rounded corners */
+}
+
+
+/* Card style for recipe details */
+.card {
+  background-color: #fff;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.card h1,
+.card h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Small image class */
+.small-image {
+  width: 400px;
+  height: auto;
+  display: block;
+  margin: 0 auto 20px; /* Center the image and add bottom margin */
+}
+
+/* Recipe instructions with preserved newlines */
+.instructions {
+  white-space: pre-line;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+/* Form elements */
+input[type="number"] {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 80px;
+  margin-right: 10px;
+}
+
+label {
+  font-weight: 500;
+  margin-right: 15px;
+}
+
+/* Primary button style (if needed later) */
+.btn-primary {
+  background-color: #FF6F61;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn-primary:hover {
+  background-color: #e65b50;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .container {
+    padding: 10px;
+  }
+  .small-image {
+    width: 100%;
+  }
+}

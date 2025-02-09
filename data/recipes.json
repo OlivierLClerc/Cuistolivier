@@ -1,0 +1,477 @@
+[
+  {
+    "id": "1",
+    "title": "Spätzle à la sauce arrabiata et burrata",
+    "image": "images/spatzle-arrabiata-burrata.jpg",
+    "baseServings": 4,
+    "meta": {
+      "inherentlyVegan": false,
+      "adaptableVegan": false,
+      "inherentlyGlutenFree": false,
+      "adaptableGlutenFree": false,
+      "inherentlyVegetarian": true,
+      "adaptableVegetarian": false
+    },
+    "ingredients": [
+      {
+        "name": "Spätzle",
+        "quantity": 2,
+        "unit": "paquets",
+        "optional": false
+      },
+      {
+        "name": "Sauce arrabiata",
+        "quantity": 1,
+        "unit": "bocal",
+        "optional": false
+      },
+      {
+        "name": "Ail",
+        "quantity": 2,
+        "unit": "gousses",
+        "optional": false
+      },
+      {
+        "name": "Burrata",
+        "quantity": 2,
+        "unit": "boules",
+        "optional": false
+      },
+      {
+        "name": "Emmental râpé",
+        "quantity": 100,
+        "unit": "g",
+        "optional": false,
+        "notes": "Quantité selon vos goûts"
+      },
+      {
+        "name": "Cacahuètes non salées torréfiées",
+        "quantity": 1,
+        "unit": "poignée",
+        "optional": false
+      },
+      {
+        "name": "Huile végétale",
+        "quantity": 1,
+        "unit": "filet",
+        "optional": false
+      },
+      {
+        "name": "Beurre",
+        "quantity": 10,
+        "unit": "g",
+        "optional": false,
+        "notes": "Un peu de beurre"
+      },
+      {
+        "name": "Piment",
+        "quantity": 0.1,
+        "unit": "pincée",
+        "optional": true,
+        "notes": "Un petit peu, selon vos goûts"
+      },
+      {
+        "name": "Boulettes de viande végétales",
+        "quantity": 1,
+        "unit": "sachet",
+        "optional": true,
+        "notes": "Optionnel"
+      }
+    ],
+    "instructions": "1. Préparez la base aromatique : Dans une grande poêle, faites chauffer à feu très vif un mélange d’un filet d’huile végétale et d’un morceau de beurre. L’huile empêchera le beurre de brûler trop vite.\n\n2. Ajoutez l’ail et le piment : Pelez et hachez les gousses d’ail, puis ajoutez-les à la poêle. Faites revenir en remuant régulièrement pour éviter qu’elles ne brûlent. Si vous aimez les plats relevés, ajoutez un peu de piment à ce stade.\n\n3. Ajoutez les spätzle : Incorporez les spätzle dans la poêle. Faites-les dorer à feu vif pour obtenir une texture légèrement croustillante, puis baissez un peu le feu pour poursuivre la cuisson.\n\n4. Ajoutez les boulettes de viande végétales (si utilisées) : Intégrez les boulettes végétales aux spätzle et laissez cuire le tout environ 8 minutes, en mélangeant régulièrement.\n\n5. Incorporez la sauce et le fromage : Versez la sauce arrabiata dans la poêle pour enrober les spätzle. Ajoutez une bonne poignée d’emmental râpé, mélangez bien pour le faire fondre et assaisonnez avec du poivre fraîchement moulu.\n\n6. Le dressage final : Hors du feu, déposez les deux boules de burrata au centre du plat. Coupez-les délicatement pour qu’elles se répandent sur les pâtes. Parsemez de cacahuètes torréfiées pour une touche croquante."
+  },
+  {
+    "id": "2",
+    "title": "Pizza végétarienne maison",
+    "image": "images/pizza_prep2.jpg",
+    "baseServings": 2,
+    "meta": {
+      "inherentlyVegan": false,
+      "adaptableVegan": true,
+      "inherentlyGlutenFree": false,
+      "adaptableGlutenFree": true,
+      "inherentlyVegetarian": true,
+      "adaptableVegetarian": false
+    },
+    "ingredients": [
+      {
+        "name": "Pâte à pizza",
+        "quantity": 1,
+        "unit": "pâte",
+        "optional": false,
+        "alternatives": {
+          "glutenFree": "Pâte sans gluten"
+        }
+      },
+      {
+        "name": "Sauce tomate pour pizza",
+        "quantity": 1,
+        "unit": "boîte",
+        "optional": false,
+        "notes": "La quantité dépend de la taille de la boîte"
+      },
+      {
+        "name": "Oignon",
+        "quantity": 1,
+        "unit": "oignon",
+        "optional": false
+      },
+      {
+        "name": "Poivron",
+        "quantity": 1,
+        "unit": "poivron",
+        "optional": false
+      },
+      {
+        "name": "Champignons de Paris",
+        "quantity": 100,
+        "unit": "g",
+        "optional": false,
+        "notes": "Tranchés finement"
+      },
+      {
+        "name": "Emmental râpé",
+        "quantity": 50,
+        "unit": "g",
+        "optional": false,
+        "alternatives": {
+          "vegan": "Courgette râpée"
+        }
+      },
+      {
+        "name": "Maïs",
+        "quantity": 50,
+        "unit": "g",
+        "optional": true
+      },
+      {
+        "name": "Câpres",
+        "quantity": 20,
+        "unit": "g",
+        "optional": true
+      }
+    ],
+    "instructions": "1. Préparez les légumes : Pelez et émincez finement l’oignon. Lavez le poivron, retirez les graines et les membranes blanches, puis coupez-le en fines lanières. Nettoyez les champignons et tranchez-les en fines lamelles.\n\n2. Étalez la base : Déroulez la pâte à pizza sur une plaque de cuisson recouverte de papier sulfurisé. Répartissez uniformément la sauce tomate sur la pâte à l’aide d’une cuillère.\n\n3. Disposez les légumes : Répartissez l’oignon émincé, les lanières de poivron et les tranches de champignons sur la sauce tomate. Ajoutez une poignée d’emmental râpé pour la version classique, ou remplacez-le par de la courgette râpée pour une version vegan.\n\n4. Ajoutez des options si désiré : Si vous le souhaitez, parsemez de maïs, câpres ou tout autre ingrédient de votre choix pour personnaliser votre pizza.\n\n5. Enfournez : Préchauffez votre four à 200 °C (thermostat 6-7). Enfournez la pizza pendant 12 à 15 minutes, jusqu’à ce que la pâte soit dorée et les légumes légèrement grillés."
+  },
+  {
+    "id": "3",
+    "title": "Tacos façon Old El Paso avec patates douces",
+    "image": "images/tacos-old-el-paso.jpg",
+    "baseServings": 4,
+    "meta": {
+      "inherentlyVegan": false,
+      "adaptableVegan": false,
+      "inherentlyGlutenFree": false,
+      "adaptableGlutenFree": false,
+      "inherentlyVegetarian": false,
+      "adaptableVegetarian": false
+    },
+    "ingredients": [
+      {
+        "name": "Old El Paso French Tacos Kit",
+        "quantity": 1,
+        "unit": "boîte"
+      },
+      {
+        "name": "Poulet",
+        "quantity": 600,
+        "unit": "g"
+      },
+      {
+        "name": "Avocat",
+        "quantity": 2,
+        "unit": "avocats",
+        "notes": "Utilisez 1 à 2 avocats selon la taille"
+      },
+      {
+        "name": "Cheddar râpé",
+        "quantity": 50,
+        "unit": "g"
+      },
+      {
+        "name": "Emmental râpé",
+        "quantity": 50,
+        "unit": "g"
+      },
+      {
+        "name": "Crème fraîche",
+        "quantity": 1,
+        "unit": "portion",
+        "notes": "Quantité à vérifier sur le paquet, voire un peu plus si besoin"
+      },
+      {
+        "name": "Oignon",
+        "quantity": 1,
+        "unit": "oignon",
+        "notes": "rouge ou jaune"
+      },
+      {
+        "name": "Patates douces",
+        "quantity": 2,
+        "unit": "",
+        "notes": "Épluchées et coupées en frites"
+      },
+      {
+        "name": "Huile végétale",
+        "quantity": 1,
+        "unit": "filet"
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "notes": "À doser selon le goût"
+      },
+      {
+        "name": "Citron vert",
+        "quantity": 1,
+        "unit": ""
+      }
+    ],
+    "instructions": "1. Préparez les patates douces:\n   - Préchauffez le four à 180-200 °C (thermostat 6-7).\n   - Épluchez les patates douces et coupez-les en petites frites. Disposez-les sur une plaque recouverte de papier sulfurisé.\n   - Arrosez d’un filet d’huile, salez, mélangez bien, et enfournez pendant environ 35 à 40 minutes, jusqu’à ce qu’elles soient tendres.\n\n2. Préparez le poulet:\n   - Préchauffez le four selon les instructions du kit.\n   - Émincez l’oignon et disposez-le dans un plat allant au four avec les morceaux de poulet.\n   - Saupoudrez le mélange d’épices fourni dans le kit sur le poulet et mélangez bien pour enrober. Enfournez et laissez cuire environ 20 minutes.\n\n3. Préparez la sauce fromagère:\n   - Mélangez le cheddar râpé, l’emmental râpé et la crème fraîche dans un bol.\n   - Chauffez le mélange au micro-ondes (suivez les instructions du paquet pour le temps), puis mélangez jusqu’à obtenir une sauce homogène. Vous pouvez préparer un peu plus de sauce que la quantité indiquée, car il peut parfois en manquer.\n\n4. Préparez l’avocat:\n   - Coupez l’avocat en dés et arrosez-le de jus de citron vert pour éviter qu’il noircisse et pour ajouter une touche d’acidité.\n\n5. Assemblez les tacos:\n   - Chauffez les galettes selon les instructions sur le paquet.\n   - Sur chaque galette, étalez une généreuse couche de sauce fromagère.\n   - Ajoutez ensuite les morceaux de poulet, les frites de patates douces et les dés d’avocat.\n   - Pliez la galette en repliant les côtés vers le centre, puis les bords du haut et du bas pour former un taco fermé.\n\n6. Saisissez les tacos à la poêle:\n   - Faites chauffer une poêle à feu très vif.\n   - Déposez les tacos pliés dans la poêle et faites-les saisir."
+  },
+  {
+    "id": "4",
+    "title": "Pâtes aux poivrons rôtis, burrata et pesto d’amandes",
+    "link": "Tiré de https://www.undejeunerdesoleil.com/2022/05/pates-poivrons-burrata-epicerie-italienne-fiorentina-marseille.html",
+    "image": "images/pates_poivrons.jpg",
+    "baseServings": 4,
+    "meta": {
+      "inherentlyVegan": false,
+      "adaptableVegan": false,
+      "inherentlyGlutenFree": false,
+      "adaptableGlutenFree": true,
+      "inherentlyVegetarian": true,
+      "adaptableVegetarian": false
+    },
+    "ingredients": [
+      {
+        "name": "Poivrons rouges",
+        "quantity": 4,
+        "unit": "pièces",
+        "optional": false,
+        "notes": "Moyens, bien lourds et fermes"
+      },
+      {
+        "name": "Pâtes de Gragnano (penne rigate)",
+        "quantity": 320,
+        "unit": "g",
+        "optional": false
+      },
+      {
+        "name": "Burrata",
+        "quantity": 200,
+        "unit": "g",
+        "optional": false
+      },
+      {
+        "name": "Amandes entières",
+        "quantity": 60,
+        "unit": "g",
+        "optional": false
+      },
+      {
+        "name": "Parmesan râpé (24 mois)",
+        "quantity": 60,
+        "unit": "g",
+        "optional": false
+      },
+      {
+        "name": "Huile d'olive vierge extra",
+        "quantity": 5,
+        "unit": "cl",
+        "optional": false,
+        "notes": "voire plus, de Toscane"
+      },
+      {
+        "name": "Basilic",
+        "quantity": 10,
+        "unit": "feuilles",
+        "optional": false
+      },
+      {
+        "name": "Origan ou thym frais",
+        "quantity": null,
+        "unit": "",
+        "optional": false,
+        "notes": "À doser selon vos goûts"
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "optional": false,
+        "notes": "À doser selon le goût"
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "optional": false,
+        "notes": "À doser selon le goût"
+      }
+    ],
+    "instructions": "1. Faire rôtir les poivrons:\n   - Préchauffez le four à 210°C en fonction grill. Tapisser une plaque de cuisson de papier sulfurisé et y disposer les poivrons entiers.\n   - Faites cuire pendant 25 à 30 minutes en retournant à mi-cuisson, jusqu’à ce que la peau soit bien colorée.\n   - Éteignez le four, ouvrez la porte pour laisser échapper la vapeur, puis refermez et laissez reposer environ 20 minutes pour faciliter le pelage.\n\n2. Faire cuire les pâtes:\n   - Portez à ébullition une grande casserole d’eau (environ 3,2 litres) salée.\n   - Plongez les pâtes dans l’eau bouillante et faites cuire selon le temps indiqué sur le paquet.\n\n3. Préparer le pesto aux poivrons:\n   - Pelez les poivrons refroidis et récupérez leur chair.\n   - Mixez la chair de poivrons avec 40 g d’amandes, le parmesan, un peu d’origan, 6 feuilles de basilic et l’huile d’olive. Ajustez l’assaisonnement avec du sel.\n\n4. Finition:\n   - Égouttez les pâtes en conservant un peu d’eau de cuisson (environ 1 cuillère à soupe).\n   - Mélangez rapidement les pâtes avec le pesto aux poivrons.\n   - Servez immédiatement avec des cuillères de burrata, quelques amandes, du basilic frais, du poivre et un filet d’huile d’olive."
+  },
+  {
+    "id": "5",
+    "title": "Baba ganoush au sésame",
+    "link": "Tiré de https://www.undejeunerdesoleil.com/2014/05/baba-ganoush-caviar-aubergines.html",
+    "image": "images/baba_ganoush.jpg",
+    "baseServings": 4,
+    "meta": {
+      "inherentlyVegan": true,
+      "adaptableVegan": false,
+      "inherentlyGlutenFree": true,
+      "adaptableGlutenFree": false,
+      "inherentlyVegetarian": true,
+      "adaptableVegetarian": false
+    },
+    "ingredients": [
+      {
+        "name": "Aubergines",
+        "quantity": 2,
+        "unit": "pièces",
+        "optional": false,
+        "notes": "Moyennes, environ 600 g au total"
+      },
+      {
+        "name": "Pâte de sésame (tahini)",
+        "quantity": 1,
+        "unit": "cs",
+        "optional": false,
+        "notes": "Voir plus selon les goûts"
+      },
+      {
+        "name": "Jus de citron jaune",
+        "quantity": 1,
+        "unit": "",
+        "optional": false,
+        "notes": "Fraîchement pressé"
+      },
+      {
+        "name": "Ail",
+        "quantity": 4,
+        "unit": "gousse",
+        "optional": false
+      },
+      {
+        "name": "Huile d'olive vierge extra",
+        "quantity": 4,
+        "unit": "cs",
+        "optional": false
+      },
+      {
+        "name": "Graines de sésame doré",
+        "quantity": null,
+        "unit": "",
+        "optional": false,
+        "notes": "À parsemer au moment du service"
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "optional": false,
+        "notes": "À doser selon le goût"
+      }
+    ],
+    "instructions": "1. Préchauffez le four à 200°C (gril). Lavez, essuyez et coupez les aubergines en deux dans le sens de la longueur. Avec un couteau, pratiquez un quadrillage dans la chair. Disposez-les sur une plaque recouverte de papier cuisson (vous pouvez ajouter un peu d’huile et une pincée de sel) et faites cuire pendant environ 30 minutes, jusqu’à ce que la chair colore et se détache facilement de la peau.\n\n2. Couper les têtes d’ail en deux. Les poser sur une feuille de papier cuisson et assaisonner avec du sel, de l’origan, du poivre et de l’huile. Refermer hermétiquement en repliant vers l’intérieur et cuire 20-30 minutes avec les aubergines.\n\n3. Placez la chair des aubergines dans un mixeur avec la pâte de sésame, le jus de citron, l’ail confit et une pincée de sel. Ajoutez 4 cs d’huile d’olive et mixez par à-coups jusqu’à obtenir une consistance homogène. Ajustez avec un peu d’eau si nécessaire.\n\n4. Servez le baba ganoush parsemé de graines de sésame, ou conservez-le au frais (mieux vaut attendre environ une heure) en le recouvrant d’un filet d’huile d’olive et d’un film alimentaire."
+  },
+  {
+    "id": "6",
+    "title": "Bowls végétariens à la semoule",
+    "image": "images/bowl.jpg",
+    "baseServings": 4,
+    "meta": {
+      "inherentlyVegan": false,
+      "adaptableVegan": true,
+      "inherentlyGlutenFree": false,
+      "adaptableGlutenFree": true,
+      "inherentlyVegetarian": true,
+      "adaptableVegetarian": false
+    },
+    "ingredients": [
+      {
+        "name": "Semoule (couscous)",
+        "quantity": 300,
+        "unit": "g",
+        "optional": false,
+        "alternatives": {
+          "glutenFree": "Semoule de maïs"
+        }
+      },
+      {
+        "name": "Eau bouillante salée",
+        "quantity": 400,
+        "unit": "ml",
+        "optional": false
+      },
+      {
+        "name": "Avocats",
+        "quantity": 2,
+        "unit": "",
+        "optional": false
+      },
+      {
+        "name": "Concombre",
+        "quantity": 1,
+        "unit": "",
+        "optional": false
+      },
+      {
+        "name": "Tomates cerises",
+        "quantity": 300,
+        "unit": "g",
+        "optional": false
+      },
+      {
+        "name": "Poivrons",
+        "quantity": 2,
+        "unit": "",
+        "optional": false
+      },
+      {
+        "name": "Oignons nouveaux",
+        "quantity": 4,
+        "unit": "",
+        "optional": false
+      },
+      {
+        "name": "Courgette",
+        "quantity": 1,
+        "unit": "",
+        "optional": false
+      },
+      {
+        "name": "Halloumi",
+        "quantity": 1,
+        "unit": "boîte",
+        "optional": true,
+        "alternatives": {
+          "vegan": "Tofu grillé"
+        }
+      },
+      {
+        "name": "Sriracha mayo",
+        "quantity": null,
+        "unit": "",
+        "optional": false,
+        "notes": "Quantité selon les goûts"
+      },
+      {
+        "name": "Beurre",
+        "quantity": 1,
+        "unit": "noix",
+        "optional": false
+      },
+      {
+        "name": "Huile végétale",
+        "quantity": 1,
+        "unit": "filet",
+        "optional": false
+      }
+    ],
+    "instructions": "1. Faites griller les poivrons : Préchauffez le four en mode grill à 220°C. Placez les poivrons entiers sur une plaque de cuisson et enfournez pendant 20 minutes, en les tournant à mi-cuisson, jusqu’à ce que la peau noircisse légèrement. Retirez du four, laissez tiédir, pelez-les et coupez-les en petits morceaux.\n\n2. Préparez les légumes : Coupez la courgette en petits morceaux, tranchez les avocats, coupez les tomates cerises en deux, émincez les oignons nouveaux et coupez le concombre en petits dés.\n\n3. Faites cuire l’halloumi : Coupez l’halloumi en tranches. Faites chauffer une poêle avec un peu d’huile pour éviter qu’il n’accroche. Faites dorer les tranches d’halloumi à feu vif jusqu’à ce qu’elles soient bien croustillantes des deux côtés, puis réservez. (Optionnel pour une version vegan)\n\n4. Préparez la semoule : Versez la semoule dans un saladier ou un contenant adapté. Ajoutez l’eau bouillante salée, couvrez et laissez gonfler pendant 5 minutes. Aérez la semoule à la fourchette et ajoutez une noix de beurre pour la rendre plus moelleuse.\n\n5. Assemblez les bowls : Répartissez la semoule dans 4 bols. Ajoutez les légumes préparés (poivrons grillés, courgette, tomates cerises, avocats, concombre et oignons nouveaux). Déposez les tranches d’halloumi grillé (optionnel pour une version vegan). Arrosez de sriracha mayo selon vos envies."
+  }
+]
