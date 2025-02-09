@@ -1,6 +1,75 @@
 [
   {
     "id": "1",
+    "title": "Tarte à la ratatouille de ma maman",
+    "image": "images/tarte_ratatouille_prep.jpg",
+    "baseServings": 4,
+    "meta": {
+      "inherentlyVegan": false,
+      "adaptableVegan": false,
+      "inherentlyGlutenFree": false,
+      "adaptableGlutenFree": true,
+      "inherentlyVegetarian": true,
+      "adaptableVegetarian": false
+    },
+    "ingredients": [
+      {
+        "name": "Pâte brisée",
+        "quantity": 1,
+        "unit": "pièce",
+        "optional": false,
+        "alternatives": {
+          "glutenFree": "Pâte sans gluten"
+        },
+        "notes": ""
+      },
+      {
+        "name": "Ratatouille",
+        "quantity": 1,
+        "unit": "boîte",
+        "optional": false,
+        "notes": "taille moyenne"
+      },
+      {
+        "name": "Œufs",
+        "quantity": 3,
+        "unit": "pièces",
+        "optional": false,
+        "notes": ""
+      },
+      {
+        "name": "Crème fraîche",
+        "quantity": 2,
+        "unit": "cuillères à soupe",
+        "optional": false,
+        "notes": ""
+      },
+      {
+        "name": "Curcuma ou ail fumé",
+        "quantity": 1,
+        "unit": "pincée",
+        "optional": true,
+        "notes": "Optionnel"
+      },
+      {
+        "name": "Sel et poivre",
+        "quantity": null,
+        "unit": "",
+        "optional": false,
+        "notes": "À doser selon les goûts"
+      },
+      {
+        "name": "Salade verte",
+        "quantity": 1,
+        "unit": "",
+        "optional": false,
+        "notes": "Pour accompagner"
+      }
+    ],
+    "instructions": "1. Préchauffez le four à 200°C.\n\n2. Dans un saladier, mélangez la ratatouille avec les œufs et la crème fraîche. Ajoutez le sel, le poivre, et éventuellement une pincée de curcuma ou d’ail fumé pour relever le goût.\n\n3. Étalez la pâte brisée dans un moule à tarte. Piquez légèrement le fond avec une fourchette pour éviter qu’elle ne gonfle pendant la cuisson.\n\n4. Versez le mélange sur la pâte et enfournez pendant environ 20 minutes, jusqu’à ce que la pâte soit bien dorée et l’appareil bien pris.\n\n5. Laissez tiédir quelques minutes avant de déguster, accompagné d’une salade verte pour une touche de fraîcheur."
+  },
+  {
+    "id": "2",
     "title": "Spätzle à la sauce arrabiata et burrata",
     "image": "images/spatzle-arrabiata-burrata.jpg",
     "baseServings": 4,
@@ -81,7 +150,7 @@
     "instructions": "1. Préparez la base aromatique : Dans une grande poêle, faites chauffer à feu très vif un mélange d’un filet d’huile végétale et d’un morceau de beurre. L’huile empêchera le beurre de brûler trop vite.\n\n2. Ajoutez l’ail et le piment : Pelez et hachez les gousses d’ail, puis ajoutez-les à la poêle. Faites revenir en remuant régulièrement pour éviter qu’elles ne brûlent. Si vous aimez les plats relevés, ajoutez un peu de piment à ce stade.\n\n3. Ajoutez les spätzle : Incorporez les spätzle dans la poêle. Faites-les dorer à feu vif pour obtenir une texture légèrement croustillante, puis baissez un peu le feu pour poursuivre la cuisson.\n\n4. Ajoutez les boulettes de viande végétales (si utilisées) : Intégrez les boulettes végétales aux spätzle et laissez cuire le tout environ 8 minutes, en mélangeant régulièrement.\n\n5. Incorporez la sauce et le fromage : Versez la sauce arrabiata dans la poêle pour enrober les spätzle. Ajoutez une bonne poignée d’emmental râpé, mélangez bien pour le faire fondre et assaisonnez avec du poivre fraîchement moulu.\n\n6. Le dressage final : Hors du feu, déposez les deux boules de burrata au centre du plat. Coupez-les délicatement pour qu’elles se répandent sur les pâtes. Parsemez de cacahuètes torréfiées pour une touche croquante."
   },
   {
-    "id": "2",
+    "id": "3",
     "title": "Pizza végétarienne maison",
     "image": "images/pizza_prep2.jpg",
     "baseServings": 2,
@@ -154,7 +223,7 @@
     "instructions": "1. Préparez les légumes : Pelez et émincez finement l’oignon. Lavez le poivron, retirez les graines et les membranes blanches, puis coupez-le en fines lanières. Nettoyez les champignons et tranchez-les en fines lamelles.\n\n2. Étalez la base : Déroulez la pâte à pizza sur une plaque de cuisson recouverte de papier sulfurisé. Répartissez uniformément la sauce tomate sur la pâte à l’aide d’une cuillère.\n\n3. Disposez les légumes : Répartissez l’oignon émincé, les lanières de poivron et les tranches de champignons sur la sauce tomate. Ajoutez une poignée d’emmental râpé pour la version classique, ou remplacez-le par de la courgette râpée pour une version vegan.\n\n4. Ajoutez des options si désiré : Si vous le souhaitez, parsemez de maïs, câpres ou tout autre ingrédient de votre choix pour personnaliser votre pizza.\n\n5. Enfournez : Préchauffez votre four à 200 °C (thermostat 6-7). Enfournez la pizza pendant 12 à 15 minutes, jusqu’à ce que la pâte soit dorée et les légumes légèrement grillés."
   },
   {
-    "id": "3",
+    "id": "4",
     "title": "Tacos façon Old El Paso avec patates douces",
     "image": "images/tacos-old-el-paso.jpg",
     "baseServings": 4,
@@ -231,7 +300,7 @@
     "instructions": "1. Préparez les patates douces:\n   - Préchauffez le four à 180-200 °C (thermostat 6-7).\n   - Épluchez les patates douces et coupez-les en petites frites. Disposez-les sur une plaque recouverte de papier sulfurisé.\n   - Arrosez d’un filet d’huile, salez, mélangez bien, et enfournez pendant environ 35 à 40 minutes, jusqu’à ce qu’elles soient tendres.\n\n2. Préparez le poulet:\n   - Préchauffez le four selon les instructions du kit.\n   - Émincez l’oignon et disposez-le dans un plat allant au four avec les morceaux de poulet.\n   - Saupoudrez le mélange d’épices fourni dans le kit sur le poulet et mélangez bien pour enrober. Enfournez et laissez cuire environ 20 minutes.\n\n3. Préparez la sauce fromagère:\n   - Mélangez le cheddar râpé, l’emmental râpé et la crème fraîche dans un bol.\n   - Chauffez le mélange au micro-ondes (suivez les instructions du paquet pour le temps), puis mélangez jusqu’à obtenir une sauce homogène. Vous pouvez préparer un peu plus de sauce que la quantité indiquée, car il peut parfois en manquer.\n\n4. Préparez l’avocat:\n   - Coupez l’avocat en dés et arrosez-le de jus de citron vert pour éviter qu’il noircisse et pour ajouter une touche d’acidité.\n\n5. Assemblez les tacos:\n   - Chauffez les galettes selon les instructions sur le paquet.\n   - Sur chaque galette, étalez une généreuse couche de sauce fromagère.\n   - Ajoutez ensuite les morceaux de poulet, les frites de patates douces et les dés d’avocat.\n   - Pliez la galette en repliant les côtés vers le centre, puis les bords du haut et du bas pour former un taco fermé.\n\n6. Saisissez les tacos à la poêle:\n   - Faites chauffer une poêle à feu très vif.\n   - Déposez les tacos pliés dans la poêle et faites-les saisir."
   },
   {
-    "id": "4",
+    "id": "5",
     "title": "Pâtes aux poivrons rôtis, burrata et pesto d’amandes",
     "link": "Tiré de https://www.undejeunerdesoleil.com/2022/05/pates-poivrons-burrata-epicerie-italienne-fiorentina-marseille.html",
     "image": "images/pates_poivrons.jpg",
@@ -314,7 +383,7 @@
     "instructions": "1. Faire rôtir les poivrons:\n   - Préchauffez le four à 210°C en fonction grill. Tapisser une plaque de cuisson de papier sulfurisé et y disposer les poivrons entiers.\n   - Faites cuire pendant 25 à 30 minutes en retournant à mi-cuisson, jusqu’à ce que la peau soit bien colorée.\n   - Éteignez le four, ouvrez la porte pour laisser échapper la vapeur, puis refermez et laissez reposer environ 20 minutes pour faciliter le pelage.\n\n2. Faire cuire les pâtes:\n   - Portez à ébullition une grande casserole d’eau (environ 3,2 litres) salée.\n   - Plongez les pâtes dans l’eau bouillante et faites cuire selon le temps indiqué sur le paquet.\n\n3. Préparer le pesto aux poivrons:\n   - Pelez les poivrons refroidis et récupérez leur chair.\n   - Mixez la chair de poivrons avec 40 g d’amandes, le parmesan, un peu d’origan, 6 feuilles de basilic et l’huile d’olive. Ajustez l’assaisonnement avec du sel.\n\n4. Finition:\n   - Égouttez les pâtes en conservant un peu d’eau de cuisson (environ 1 cuillère à soupe).\n   - Mélangez rapidement les pâtes avec le pesto aux poivrons.\n   - Servez immédiatement avec des cuillères de burrata, quelques amandes, du basilic frais, du poivre et un filet d’huile d’olive."
   },
   {
-    "id": "5",
+    "id": "6",
     "title": "Baba ganoush au sésame",
     "link": "Tiré de https://www.undejeunerdesoleil.com/2014/05/baba-ganoush-caviar-aubergines.html",
     "image": "images/baba_ganoush.jpg",
@@ -379,7 +448,7 @@
     "instructions": "1. Préchauffez le four à 200°C (gril). Lavez, essuyez et coupez les aubergines en deux dans le sens de la longueur. Avec un couteau, pratiquez un quadrillage dans la chair. Disposez-les sur une plaque recouverte de papier cuisson (vous pouvez ajouter un peu d’huile et une pincée de sel) et faites cuire pendant environ 30 minutes, jusqu’à ce que la chair colore et se détache facilement de la peau.\n\n2. Couper les têtes d’ail en deux. Les poser sur une feuille de papier cuisson et assaisonner avec du sel, de l’origan, du poivre et de l’huile. Refermer hermétiquement en repliant vers l’intérieur et cuire 20-30 minutes avec les aubergines.\n\n3. Placez la chair des aubergines dans un mixeur avec la pâte de sésame, le jus de citron, l’ail confit et une pincée de sel. Ajoutez 4 cs d’huile d’olive et mixez par à-coups jusqu’à obtenir une consistance homogène. Ajustez avec un peu d’eau si nécessaire.\n\n4. Servez le baba ganoush parsemé de graines de sésame, ou conservez-le au frais (mieux vaut attendre environ une heure) en le recouvrant d’un filet d’huile d’olive et d’un film alimentaire."
   },
   {
-    "id": "6",
+    "id": "7",
     "title": "Bowls végétariens à la semoule",
     "image": "images/bowl.jpg",
     "baseServings": 4,
