@@ -45,7 +45,14 @@
         "notes": ""
       },
       {
-        "name": "Curcuma ou ail fumé",
+        "name": "Curcuma",
+        "quantity": 1,
+        "unit": "pincée",
+        "optional": true,
+        "notes": "Optionnel"
+      },
+      {
+        "name": "Ail fumé",
         "quantity": 1,
         "unit": "pincée",
         "optional": true,
