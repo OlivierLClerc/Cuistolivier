@@ -16,7 +16,7 @@
       {
         "name": "Pâte brisée",
         "quantity": 1,
-        "unit": "pièce",
+        "unit": "",
         "optional": false,
         "alternatives": {
           "glutenFree": "Pâte sans gluten"
@@ -33,7 +33,7 @@
       {
         "name": "Œufs",
         "quantity": 3,
-        "unit": "pièces",
+        "unit": "",
         "optional": false,
         "notes": ""
       },
@@ -189,13 +189,13 @@
       {
         "name": "Oignon",
         "quantity": 1,
-        "unit": "oignon",
+        "unit": "",
         "optional": false
       },
       {
         "name": "Poivron",
         "quantity": 1,
-        "unit": "poivron",
+        "unit": "",
         "optional": false
       },
       {
@@ -256,7 +256,7 @@
       {
         "name": "Avocat",
         "quantity": 2,
-        "unit": "avocats",
+        "unit": "",
         "notes": "Utilisez 1 à 2 avocats selon la taille"
       },
       {
@@ -278,7 +278,7 @@
       {
         "name": "Oignon",
         "quantity": 1,
-        "unit": "oignon",
+        "unit": "",
         "notes": "rouge ou jaune"
       },
       {
@@ -324,7 +324,7 @@
       {
         "name": "Poivrons rouges",
         "quantity": 4,
-        "unit": "pièces",
+        "unit": "",
         "optional": false,
         "notes": "Moyens, bien lourds et fermes"
       },
@@ -407,7 +407,7 @@
       {
         "name": "Aubergines",
         "quantity": 2,
-        "unit": "pièces",
+        "unit": "",
         "optional": false,
         "notes": "Moyennes, environ 600 g au total"
       },
@@ -427,8 +427,8 @@
       },
       {
         "name": "Ail",
-        "quantity": 4,
-        "unit": "gousse",
+        "quantity": 1,
+        "unit": "tête",
         "optional": false
       },
       {
@@ -452,7 +452,7 @@
         "notes": "À doser selon le goût"
       }
     ],
-    "instructions": "1. Préchauffez le four à 200°C (gril). Lavez, essuyez et coupez les aubergines en deux dans le sens de la longueur. Avec un couteau, pratiquez un quadrillage dans la chair. Disposez-les sur une plaque recouverte de papier cuisson (vous pouvez ajouter un peu d’huile et une pincée de sel) et faites cuire pendant environ 30 minutes, jusqu’à ce que la chair colore et se détache facilement de la peau.\n\n2. Couper les têtes d’ail en deux. Les poser sur une feuille de papier cuisson et assaisonner avec du sel, de l’origan, du poivre et de l’huile. Refermer hermétiquement en repliant vers l’intérieur et cuire 20-30 minutes avec les aubergines.\n\n3. Placez la chair des aubergines dans un mixeur avec la pâte de sésame, le jus de citron, l’ail confit et une pincée de sel. Ajoutez 4 cs d’huile d’olive et mixez par à-coups jusqu’à obtenir une consistance homogène. Ajustez avec un peu d’eau si nécessaire.\n\n4. Servez le baba ganoush parsemé de graines de sésame, ou conservez-le au frais (mieux vaut attendre environ une heure) en le recouvrant d’un filet d’huile d’olive et d’un film alimentaire."
+    "instructions": "1. Préchauffez le four à 200°C (gril). Lavez, essuyez et coupez les aubergines en deux dans le sens de la longueur. Avec un couteau, pratiquez un quadrillage dans la chair. Disposez-les sur une plaque recouverte de papier cuisson (vous pouvez ajouter un peu d’huile et une pincée de sel) et faites cuire pendant environ 30 minutes, jusqu’à ce que la chair colore et se détache facilement de la peau.\n\n2. Couper la tête d’ail en deux. La poser sur une feuille de papier cuisson et assaisonner avec du sel, de l’origan, du poivre et de l’huile. Refermer hermétiquement en repliant vers l’intérieur et cuire 20-30 minutes avec les aubergines.\n\n3. Placez la chair des aubergines dans un mixeur avec la pâte de sésame, le jus de citron, des gousses d'ails confits (quantité selon votre goût) et une pincée de sel. Ajoutez 4 cs d’huile d’olive et mixez par à-coups jusqu’à obtenir une consistance homogène. Ajustez avec un peu d’eau si nécessaire.\n\n4. Servez le baba ganoush parsemé de graines de sésame, ou conservez-le au frais (mieux vaut attendre environ une heure) en le recouvrant d’un filet d’huile d’olive et d’un film alimentaire."
   },
   {
     "id": "7",
