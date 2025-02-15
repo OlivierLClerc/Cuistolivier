@@ -22,9 +22,17 @@ function renderRecipe(recipe) {
   const container = document.getElementById('recipe-content');
 
   // Ajoute le lien si le champ "link" existe dans la recette
-  const linkHTML = recipe.link
-    ? `<p>Source : <a href="${recipe.link}" target="_blank">${recipe.link}</a></p>`
-    : '';
+  let linkHTML = '';
+  if (recipe.link) {
+    // Cherche un motif commençant par "http://" ou "https://"
+    const urlMatch = recipe.link.match(/(https?:\/\/[^\s]+)/);
+    if (urlMatch) {
+      // urlMatch[0] correspond à l'URL trouvée
+      linkHTML = `<p>Source : <a href="${urlMatch[0]}" target="_blank">${recipe.link}</a></p>`;
+    } else {
+      linkHTML = `<p>${recipe.link}</p>`;
+    }
+  }
 
   // Détecter si des alternatives vegan, sans gluten ou végétariennes sont proposées dans les ingrédients
   const hasVeganOptions = recipe.ingredients.some(ing => ing.alternatives && ing.alternatives.vegan);
@@ -89,7 +97,11 @@ function renderRecipe(recipe) {
       ${glutenFreeCheckboxHTML}
       ${vegetarianCheckboxHTML}
     </div>
-    
+    <div class="time-info">
+    <span>Temps de préparation: ${recipe.prepTime}</span> | 
+    <span>Temps de cuisson: ${recipe.cookTime}</span> | 
+    <span>Temps total: ${recipe.totalTime}</span>
+    </div>
     <h2>Ingrédients</h2>
     <ul id="ingredient-list"></ul>
     
@@ -98,7 +110,8 @@ function renderRecipe(recipe) {
   `;
 
   // Afficher les instructions en préservant les retours à la ligne.
-  document.getElementById('recipe-instructions').textContent = recipe.instructions;
+  document.getElementById('recipe-instructions').textContent = recipe.instructions.join('\n');
+
 
   // Fonction pour ajuster les quantités selon le nombre de portions désiré.
   function scaleRecipe(desiredServings) {

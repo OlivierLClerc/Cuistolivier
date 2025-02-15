@@ -20,7 +20,6 @@ body {
   border-radius: 6px; /* Optional: rounded corners */
 }
 
-
 /* Card style for recipe details */
 .card {
   background-color: #fff;
@@ -78,6 +77,11 @@ label {
 
 .btn-primary:hover {
   background-color: #e65b50;
+}
+
+/* Time info styling with added top margin */
+.time-info {
+  margin-top: 20px;
 }
 
 /* Responsive adjustments */

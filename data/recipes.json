@@ -12,6 +12,9 @@
       "inherentlyVegetarian": true,
       "adaptableVegetarian": false
     },
+    "prepTime": "10 min",
+    "cookTime": "25 min",
+    "totalTime": "35 min",
     "ingredients": [
       {
         "name": "Pâte brisée",
@@ -73,7 +76,13 @@
         "notes": "Pour accompagner"
       }
     ],
-    "instructions": "1. Préchauffez le four à 200°C.\n\n2. Dans un saladier, mélangez la ratatouille avec les œufs et la crème fraîche. Ajoutez le sel, le poivre, et éventuellement une pincée de curcuma ou d’ail fumé pour relever le goût.\n\n3. Étalez la pâte brisée dans un moule à tarte. Piquez légèrement le fond avec une fourchette pour éviter qu’elle ne gonfle pendant la cuisson.\n\n4. Versez le mélange sur la pâte et enfournez pendant environ 20 minutes, jusqu’à ce que la pâte soit bien dorée et l’appareil bien pris.\n\n5. Laissez tiédir quelques minutes avant de déguster, accompagné d’une salade verte pour une touche de fraîcheur."
+    "instructions": [
+      "1. Préchauffez le four à 200°C.",
+      "2. Dans un saladier, mélangez la ratatouille avec les œufs et la crème fraîche. Ajoutez le sel, le poivre, et éventuellement une pincée de curcuma ou d’ail fumé pour relever le goût.",
+      "3. Étalez la pâte brisée dans un moule à tarte. Piquez légèrement le fond avec une fourchette pour éviter qu’elle ne gonfle pendant la cuisson.",
+      "4. Versez le mélange sur la pâte et enfournez pendant environ 20 minutes, jusqu’à ce que la pâte soit bien dorée et l’appareil bien pris.",
+      "5. Laissez tiédir quelques minutes avant de déguster, accompagné d’une salade verte."
+    ]
   },
   {
     "id": "2",
@@ -88,6 +97,9 @@
       "inherentlyVegetarian": true,
       "adaptableVegetarian": false
     },
+    "prepTime": "5 min",
+    "cookTime": "15 min",
+    "totalTime": "20 min",
     "ingredients": [
       {
         "name": "Spätzle",
@@ -154,7 +166,14 @@
         "notes": "Optionnel"
       }
     ],
-    "instructions": "1. Dans une grande poêle, faites chauffer à feu très vif un mélange d’un filet d’huile végétale et d’un morceau de beurre. L’huile empêchera le beurre de brûler trop vite.\n\n2. Pelez et hachez les gousses d’ail, puis ajoutez-les à la poêle. Faites revenir en remuant régulièrement pour éviter qu’elles ne brûlent. Si vous aimez les plats relevés, ajoutez un peu de piment à ce stade.\n\n3. Incorporez les spätzle dans la poêle. Faites-les dorer à feu vif pour obtenir une texture légèrement croustillante, puis baissez un peu le feu pour poursuivre la cuisson.\n\n4. Ajoutez les boulettes végétales aux spätzle et laissez cuire le tout environ 8 minutes, en mélangeant régulièrement.\n\n5. Versez la sauce arrabiata dans la poêle pour enrober les spätzle. Ajoutez une bonne poignée d’emmental râpé, mélangez bien pour le faire fondre et assaisonnez avec du poivre fraîchement moulu.\n\n6. Hors du feu, déposez les deux boules de burrata au centre du plat. Coupez-les délicatement pour qu’elles se répandent sur les pâtes. Parsemez de cacahuètes torréfiées pour une touche croquante."
+    "instructions": [
+      "1. Dans une grande poêle, faites chauffer à feu très vif un mélange d’un filet d’huile végétale et d’un morceau de beurre. L’huile empêchera le beurre de brûler trop vite.",
+      "2. Pelez et hachez les gousses d’ail, puis ajoutez-les à la poêle. Faites revenir en remuant régulièrement pour éviter qu’elles ne brûlent. Si vous aimez les plats relevés, ajoutez un peu de piment à ce stade.",
+      "3. Incorporez les spätzle dans la poêle. Faites-les dorer à feu vif pour obtenir une texture légèrement croustillante, puis baissez un peu le feu pour poursuivre la cuisson.",
+      "4. Ajoutez les boulettes végétales aux spätzle et laissez cuire le tout environ 8 minutes, en mélangeant régulièrement.",
+      "5. Versez la sauce arrabiata dans la poêle pour enrober les spätzle. Ajoutez une bonne poignée d’emmental râpé, mélangez bien pour le faire fondre et assaisonnez avec du poivre.",
+      "6. Hors du feu, déposez les deux boules de burrata au centre du plat. Coupez-les pour qu’elles se répandent sur les pâtes. Parsemez de cacahuètes torréfiées."
+    ]
   },
   {
     "id": "3",
@@ -169,6 +188,9 @@
       "inherentlyVegetarian": true,
       "adaptableVegetarian": false
     },
+    "prepTime": "15 min",
+    "cookTime": "15 min",
+    "totalTime": "30 min",
     "ingredients": [
       {
         "name": "Pâte à pizza",
@@ -227,7 +249,12 @@
         "optional": true
       }
     ],
-    "instructions": "1. Préparez les légumes : Pelez et émincez finement l’oignon. Lavez le poivron, retirez les graines et les membranes blanches, puis coupez-le en fines lanières. Nettoyez les champignons et tranchez-les en fines lamelles.\n\n2. Étalez la base : Déroulez la pâte à pizza sur une plaque de cuisson recouverte de papier sulfurisé. Répartissez uniformément la sauce tomate sur la pâte à l’aide d’une cuillère.\n\n3. Disposez les légumes : Répartissez l’oignon émincé, les lanières de poivron et les tranches de champignons sur la sauce tomate. Ajoutez une poignée d’emmental râpé pour la version classique, ou remplacez-le par de la courgette râpée pour une version vegan.\n\n4. Ajoutez des options si désiré : Si vous le souhaitez, parsemez de maïs, câpres ou tout autre ingrédient de votre choix pour personnaliser votre pizza.\n\n5. Enfournez : Préchauffez votre four à 200 °C (thermostat 6-7). Enfournez la pizza pendant 12 à 15 minutes, jusqu’à ce que la pâte soit dorée et les légumes légèrement grillés."
+    "instructions": [
+      "1. Pelez et émincez finement l’oignon. Lavez le poivron, retirez les graines et les membranes blanches, puis coupez-le en fines lanières. Nettoyez les champignons et tranchez-les en fines lamelles.",
+      "2. Préchauffez votre four à 200 °C (thermostat 6-7). Déroulez la pâte à pizza sur une plaque de cuisson recouverte de papier sulfurisé. Répartissez uniformément la sauce tomate sur la pâte à l’aide d’une cuillère.",
+      "3. Répartissez l’oignon émincé, les lanières de poivron et les tranches de champignons sur la sauce tomate. Ajoutez une poignée d’emmental râpé pour la version classique, ou remplacez-le par de la courgette râpée pour une version vegan. Si vous le souhaitez, parsemez de maïs, câpres ou tout autre ingrédient de votre choix pour personnaliser votre pizza.",
+      "4. Enfournez la pizza pendant 12 à 15 minutes, jusqu’à ce que la pâte soit dorée."
+    ]
   },
   {
     "id": "4",
@@ -242,6 +269,9 @@
       "inherentlyVegetarian": false,
       "adaptableVegetarian": false
     },
+    "prepTime": "20 min",
+    "cookTime": "40 min",
+    "totalTime": "1 heure",
     "ingredients": [
       {
         "name": "Old El Paso French Tacos Kit",
@@ -304,7 +334,14 @@
         "unit": ""
       }
     ],
-    "instructions": "1. Préparez les patates douces:\n   - Préchauffez le four à 180-200 °C (thermostat 6-7).\n   - Épluchez les patates douces et coupez-les en petites frites. Disposez-les sur une plaque recouverte de papier sulfurisé.\n   - Arrosez d’un filet d’huile, salez, mélangez bien, et enfournez pendant environ 35 à 40 minutes, jusqu’à ce qu’elles soient tendres.\n\n2. Préparez le poulet:\n   - Préchauffez le four selon les instructions du kit.\n   - Émincez l’oignon et disposez-le dans un plat allant au four avec les morceaux de poulet.\n   - Saupoudrez le mélange d’épices fourni dans le kit sur le poulet et mélangez bien pour enrober. Enfournez et laissez cuire environ 20 minutes.\n\n3. Préparez la sauce fromagère:\n   - Mélangez le cheddar râpé, l’emmental râpé et la crème fraîche dans un bol.\n   - Chauffez le mélange au micro-ondes (suivez les instructions du paquet pour le temps), puis mélangez jusqu’à obtenir une sauce homogène. Vous pouvez préparer un peu plus de sauce que la quantité indiquée, car il peut parfois en manquer.\n\n4. Préparez l’avocat:\n   - Coupez l’avocat en dés et arrosez-le de jus de citron vert pour éviter qu’il noircisse et pour ajouter une touche d’acidité.\n\n5. Assemblez les tacos:\n   - Chauffez les galettes selon les instructions sur le paquet.\n   - Sur chaque galette, étalez une généreuse couche de sauce fromagère.\n   - Ajoutez ensuite les morceaux de poulet, les frites de patates douces et les dés d’avocat.\n   - Pliez la galette en repliant les côtés vers le centre, puis les bords du haut et du bas pour former un taco fermé.\n\n6. Saisissez les tacos à la poêle:\n   - Faites chauffer une poêle à feu très vif.\n   - Déposez les tacos pliés dans la poêle et faites-les saisir."
+  "instructions": [
+    "1. Préchauffez le four à 180-200 °C (thermostat 6-7). Épluchez les patates douces et coupez-les en petites frites. Disposez-les sur une plaque recouverte de papier sulfurisé, arrosez d’un filet d’huile, salez, mélangez bien et enfournez pendant environ 35 à 40 minutes, jusqu’à ce qu’elles soient tendres.",
+    "2. Préchauffez le four selon les instructions du kit. Émincez l’oignon et disposez-le dans un plat allant au four avec les morceaux de poulet. Saupoudrez le mélange d’épices du kit sur le poulet, mélangez bien pour enrober, enfournez et laissez cuire environ 20 minutes (vous pouvez l'enfourner avec les patates douces).",
+    "3. Mélangez le cheddar râpé, l’emmental râpé et la crème fraîche dans un bol. Chauffez le mélange au micro-ondes (suivez les instructions du paquet), puis mélangez jusqu’à obtenir une sauce homogène. Vous pouvez en préparer un peu plus si nécessaire.",
+    "4. Coupez l’avocat en dés et arrosez-le de jus de citron vert pour éviter qu’il noircisse et ajouter une touche d’acidité.",
+    "5. Chauffez les galettes selon les instructions du paquet. Sur chaque galette, étalez une généreuse couche de sauce fromagère, ajoutez les morceaux de poulet, les frites de patates douces et les dés d’avocat, puis pliez la galette en repliant les côtés vers le centre et les bords du haut et du bas pour former un taco fermé.",
+    "6. Faites chauffer une poêle à feu très vif, déposez les tacos pliés dans la poêle et faites-les saisir."
+  ]
   },
   {
     "id": "5",
@@ -320,6 +357,9 @@
       "inherentlyVegetarian": true,
       "adaptableVegetarian": false
     },
+    "prepTime": "20 min",
+    "cookTime": "40 min",
+    "totalTime": "1 heure",
     "ingredients": [
       {
         "name": "Poivrons rouges",
@@ -387,7 +427,13 @@
         "notes": "À doser selon le goût"
       }
     ],
-    "instructions": "1. Faire rôtir les poivrons:\n   - Préchauffez le four à 210°C en fonction grill. Tapisser une plaque de cuisson de papier sulfurisé et y disposer les poivrons entiers.\n   - Faites cuire pendant 25 à 30 minutes en retournant à mi-cuisson, jusqu’à ce que la peau soit bien colorée.\n   - Éteignez le four, ouvrez la porte pour laisser échapper la vapeur, puis refermez et laissez reposer environ 20 minutes pour faciliter le pelage.\n\n2. Faire cuire les pâtes:\n   - Portez à ébullition une grande casserole d’eau (environ 3,2 litres) salée.\n   - Plongez les pâtes dans l’eau bouillante et faites cuire selon le temps indiqué sur le paquet.\n\n3. Préparer le pesto aux poivrons:\n   - Pelez les poivrons refroidis et récupérez leur chair.\n   - Mixez la chair de poivrons avec 40 g d’amandes, le parmesan, un peu d’origan, 6 feuilles de basilic et l’huile d’olive. Ajustez l’assaisonnement avec du sel.\n\n4. Finition:\n   - Égouttez les pâtes en conservant un peu d’eau de cuisson (environ 1 cuillère à soupe).\n   - Mélangez rapidement les pâtes avec le pesto aux poivrons.\n   - Servez immédiatement avec des cuillères de burrata, quelques amandes, du basilic frais, du poivre et un filet d’huile d’olive."
+  "instructions": [
+    "1. Préchauffez le four à 210°C en fonction grill. Tapisser une plaque de cuisson de papier sulfurisé, y disposer les poivrons entiers et faites cuire pendant 25 à 30 minutes en retournant à mi-cuisson, jusqu’à ce que la peau soit bien colorée. Éteignez le four, ouvrez la porte pour laisser échapper la vapeur, puis refermez et laissez reposer environ 20 minutes pour faciliter le pelage.",
+    "2. Portez à ébullition une grande casserole d’eau (environ 3,2 litres) salée. Plongez les pâtes dans l’eau bouillante et faites cuire selon le temps indiqué sur le paquet.",
+    "3. Pelez les poivrons refroidis et récupérez leur chair. Mixez-la avec 40 g d’amandes, le parmesan, un peu d’origan, 6 feuilles de basilic et l’huile d’olive. Ajustez l’assaisonnement avec du sel.",
+    "4. Égouttez les pâtes en conservant environ 1 cuillère à soupe d’eau de cuisson, mélangez-les rapidement avec le pesto aux poivrons, puis servez immédiatement avec des cuillères de burrata, quelques amandes, du basilic frais, du poivre et un filet d’huile d’olive."
+  ]
+
   },
   {
     "id": "6",
@@ -403,6 +449,9 @@
       "inherentlyVegetarian": true,
       "adaptableVegetarian": false
     },
+    "prepTime": "15 min",
+    "cookTime": "30 min",
+    "totalTime": "45 min",
     "ingredients": [
       {
         "name": "Aubergines",
@@ -452,7 +501,12 @@
         "notes": "À doser selon le goût"
       }
     ],
-    "instructions": "1. Préchauffez le four à 200°C (gril). Lavez, essuyez et coupez les aubergines en deux dans le sens de la longueur. Avec un couteau, pratiquez un quadrillage dans la chair. Disposez-les sur une plaque recouverte de papier cuisson (vous pouvez ajouter un peu d’huile et une pincée de sel) et faites cuire pendant environ 30 minutes, jusqu’à ce que la chair colore et se détache facilement de la peau.\n\n2. Couper la tête d’ail en deux. La poser sur une feuille de papier cuisson et assaisonner avec du sel, de l’origan, du poivre et de l’huile. Refermer hermétiquement en repliant vers l’intérieur et cuire 20-30 minutes avec les aubergines.\n\n3. Placez la chair des aubergines dans un mixeur avec la pâte de sésame, le jus de citron, des gousses d'ails confits (quantité selon votre goût) et une pincée de sel. Ajoutez 4 cs d’huile d’olive et mixez par à-coups jusqu’à obtenir une consistance homogène. Ajustez avec un peu d’eau si nécessaire.\n\n4. Servez le baba ganoush parsemé de graines de sésame, ou conservez-le au frais (mieux vaut attendre environ une heure) en le recouvrant d’un filet d’huile d’olive et d’un film alimentaire."
+    "instructions": [
+      "1. Préchauffez le four à 200°C (gril). Lavez, essuyez et coupez les aubergines en deux dans le sens de la longueur. Avec un couteau, pratiquez un quadrillage dans la chair. Disposez-les sur une plaque recouverte de papier cuisson (vous pouvez ajouter un peu d’huile et une pincée de sel) et faites cuire pendant environ 30 minutes, jusqu’à ce que la chair colore et se détache facilement de la peau.",
+      "2. Couper la tête d’ail en deux. La poser sur une feuille de papier cuisson et assaisonner avec du sel, de l’origan, du poivre et de l’huile. Refermer hermétiquement en repliant vers l’intérieur et cuire 20-30 minutes avec les aubergines.",
+      "3. Placez la chair des aubergines dans un mixeur avec la pâte de sésame, le jus de citron, des gousses d'ails confits (quantité selon votre goût) et une pincée de sel. Ajoutez 4 cs d’huile d’olive et mixez par à-coups jusqu’à obtenir une consistance homogène. Ajustez avec un peu d’eau si nécessaire.",
+      "4. Servez le baba ganoush parsemé de graines de sésame, ou conservez-le au frais (mieux vaut attendre environ une heure) en le recouvrant d’un filet d’huile d’olive et d’un film alimentaire."
+    ]
   },
   {
     "id": "7",
@@ -467,6 +521,9 @@
       "inherentlyVegetarian": true,
       "adaptableVegetarian": false
     },
+    "prepTime": "30 min",
+    "cookTime": "5 min",
+    "totalTime": "35 min",
     "ingredients": [
       {
         "name": "Semoule (couscous)",
@@ -548,6 +605,293 @@
         "optional": false
       }
     ],
-    "instructions": "1. Faites griller les poivrons : Préchauffez le four en mode grill à 220°C. Placez les poivrons entiers sur une plaque de cuisson et enfournez pendant 20 minutes, en les tournant à mi-cuisson, jusqu’à ce que la peau noircisse légèrement. Retirez du four, laissez tiédir, pelez-les et coupez-les en petits morceaux.\n\n2. Préparez les légumes : Coupez la courgette en petits morceaux, tranchez les avocats, coupez les tomates cerises en deux, émincez les oignons nouveaux et coupez le concombre en petits dés.\n\n3. Faites cuire l’halloumi : Coupez l’halloumi en tranches. Faites chauffer une poêle avec un peu d’huile pour éviter qu’il n’accroche. Faites dorer les tranches d’halloumi à feu vif jusqu’à ce qu’elles soient bien croustillantes des deux côtés, puis réservez. (Optionnel pour une version vegan)\n\n4. Préparez la semoule : Versez la semoule dans un saladier ou un contenant adapté. Ajoutez l’eau bouillante salée, couvrez et laissez gonfler pendant 5 minutes. Aérez la semoule à la fourchette et ajoutez une noix de beurre pour la rendre plus moelleuse.\n\n5. Assemblez les bowls : Répartissez la semoule dans 4 bols. Ajoutez les légumes préparés (poivrons grillés, courgette, tomates cerises, avocats, concombre et oignons nouveaux). Déposez les tranches d’halloumi grillé (optionnel pour une version vegan). Arrosez de sriracha mayo selon vos envies."
+    "instructions": [
+      "1. Préchauffez le four en mode grill à 220°C. Placez les poivrons entiers sur une plaque de cuisson et enfournez pendant 20 minutes en les tournant à mi-cuisson, jusqu’à ce que la peau noircisse légèrement. Retirez du four, laissez tiédir, pelez-les et coupez-les en petits morceaux.",
+      "2. Coupez la courgette en petits morceaux, tranchez les avocats, coupez les tomates cerises en deux, émincez les oignons nouveaux et coupez le concombre en petits dés.",
+      "3. Coupez l’halloumi en tranches, faites chauffer une poêle avec un peu d’huile pour éviter qu’il n’accroche et faites-le dorer à feu vif jusqu’à ce qu’il soit bien croustillant des deux côtés, puis réservez (optionnel pour une version vegan).",
+      "4. Versez la semoule dans un saladier ou un contenant adapté, ajoutez l’eau bouillante salée, couvrez et laissez gonfler pendant 5 minutes, puis aérez la semoule à la fourchette et ajoutez une noix de beurre pour la rendre plus moelleuse.",
+      "5. Répartissez la semoule dans 4 bols, ajoutez les légumes préparés, déposez les tranches d’halloumi grillé (optionnel pour une version vegan) et arrosez de sriracha mayo selon vos envies."
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Gâteau au chocolat sans gluten et sans lactose",
+    "link": "Tiré de https://www.undejeunerdesoleil.com/2020/10/gateau-chocolat-huile-olive-recette-video.html",
+    "image": "images/chocolate_cake.jpg",
+    "baseServings": 4,
+    "meta": {
+      "inherentlyVegan": false,
+      "adaptableVegan": false,
+      "inherentlyGlutenFree": true,
+      "adaptableGlutenFree": false,
+      "inherentlyVegetarian": true,
+      "adaptableVegetarian": false
+    },
+    "prepTime": "20 min",
+    "cookTime": "30 min",
+    "totalTime": "5 h 50 min (repos)",
+    "ingredients": [
+      {
+        "name": "Chocolat noir à 70%",
+        "quantity": 230,
+        "unit": "g",
+        "optional": false,
+        "notes": "La moitié fondu et l'autre moitié concassé"
+      },
+      {
+        "name": "Œufs entiers",
+        "quantity": 4,
+        "unit": "",
+        "optional": false,
+        "notes": ""
+      },
+      {
+        "name": "Sucre glace",
+        "quantity": 180,
+        "unit": "g",
+        "optional": false,
+        "notes": ""
+      },
+      {
+        "name": "Huile d'olive vierge extra",
+        "quantity": 10,
+        "unit": "cl",
+        "optional": false,
+        "notes": ""
+      },
+      {
+        "name": "Poudre d'amandes",
+        "quantity": 60,
+        "unit": "g",
+        "optional": false,
+        "notes": "Ou de noisettes ou de noix"
+      },
+      {
+        "name": "Zestes d'un citron vert",
+        "quantity": "",
+        "unit": "",
+        "optional": true,
+        "notes": ""
+      },
+      {
+        "name": "Fleur de sel",
+        "quantity": 1,
+        "unit": "pincée",
+        "optional": false,
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "1. Séparez les blancs des jaunes d'œufs. Fouettez les blancs avec la moitié du sucre glace (de préférence avec un fouet électrique) jusqu'à ce qu'ils deviennent mousseux, blancs et fermes.",
+      "2. Faites fondre la moitié du chocolat et concassez le reste.",
+      "3. Mélangez les jaunes d'œufs avec le reste du sucre glace, puis ajoutez le chocolat fondu, l'huile d'olive, le sel et les zestes du citron vert. Mélangez, puis incorporez 2/3 de la poudre d'amandes et le chocolat concassé.",
+      "4. Incorporez délicatement un tiers des blancs d'œufs par mouvements circulaires du bas vers le haut. Ajoutez ensuite le reste des blancs en 2-3 fois, en soulevant la préparation, jusqu'à obtenir une pâte homogène (veillez à ne pas trop travailler afin de ne pas perdre l'air incorporé).",
+      "5. Préchauffez le four à 180°C (chaleur statique ou 170°C chaleur tournante).",
+      "6. Huilez un moule de 20 cm de diamètre avec un pinceau, posez un disque de papier sulfurisé de 20 cm sur le fond et saupoudrez le reste de la poudre d'amandes pour recouvrir les parois.",
+      "7. Versez la pâte dans le moule, tapotez légèrement pour aérer, et enfournez pendant environ 30 minutes. Le gâteau doit gonfler et former une croûte. L'intérieur reste un peu humide à cause du chocolat concassé, qui se solidifiera avec le repos.",
+      "8. Laissez tiédir légèrement, puis gardez au frais au moins 5 heures avant de servir (sortir 5-10 minutes avant de déguster)."
+    ]
+  },
+  {
+    "id": "9",
+    "title": "Pâtes à la crème et aux knacki végétariens",
+    "image": "images/pates_creme_knacki.jpg",
+    "baseServings": 4,
+    "meta": {
+      "inherentlyVegan": false,
+      "adaptableVegan": false,
+      "inherentlyGlutenFree": false,
+      "adaptableGlutenFree": true,
+      "inherentlyVegetarian": true,
+      "adaptableVegetarian": false
+    },
+    "prepTime": "10 min",
+    "cookTime": "20 min",
+    "totalTime": "35 min",
+    "ingredients": [
+      {
+        "name": "Pâtes (type 'Al bronzo')",
+        "quantity": 500,
+        "unit": "g",
+        "optional": false,
+        "notes": ""
+      },
+      {
+        "name": "Knacki végétariens",
+        "quantity": 10,
+        "unit": "",
+        "optional": false,
+        "notes": ""
+      },
+      {
+        "name": "Crème fraîche 30%",
+        "quantity": 5,
+        "unit": "cuillères à soupe",
+        "optional": false,
+        "notes": ""
+      },
+      {
+        "name": "Oignons jaunes",
+        "quantity": 2,
+        "unit": "",
+        "optional": false,
+        "notes": ""
+      },
+      {
+        "name": "Paneer",
+        "quantity": 200,
+        "unit": "g",
+        "optional": true,
+        "notes": "Optionnel"
+      },
+      {
+        "name": "Huile végétale",
+        "quantity": 2,
+        "unit": "CàS",
+        "optional": false,
+        "notes": ""
+      },
+      {
+        "name": "Cumin (graines)",
+        "quantity": 1,
+        "unit": "pincée",
+        "optional": true,
+        "notes": ""
+      },
+      {
+        "name": "Curcuma",
+        "quantity": 1,
+        "unit": "pincée",
+        "optional": true,
+        "notes": ""
+      },
+      {
+        "name": "Curry jaune",
+        "quantity": 1,
+        "unit": "pincée",
+        "optional": true,
+        "notes": ""
+      },
+      {
+        "name": "Ail",
+        "quantity": 2,
+        "unit": "gousses",
+        "optional": false,
+        "notes": ""
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "optional": false,
+        "notes": ""
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "optional": false,
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "1. Faites chauffer un filet d'huile dans une grande poêle avec une pincée de cumin et de curcuma pour les torréfier légèrement.",
+      "2. Ajoutez les oignons jaunes finement hachés et les 2 gousses d'ail hachées. Faites revenir jusqu'à ce que les oignons deviennent translucides.",
+      "3. Incorporez les knacki végétariens (et le paneer si vous l'utilisez) et faites cuire à feu vif pendant environ 5 minutes.",
+      "4. Baissez le feu et ajoutez la crème fraîche progressivement afin d'obtenir la consistance désirée.",
+      "5. Pendant ce temps, faites bouillir de l'eau, la saler, et cuisez les pâtes selon les instructions du paquet.",
+      "6. Égouttez les pâtes et mélangez-les directement avec la sauce. Si la sauce est trop épaisse, ajoutez un peu d'eau de cuisson des pâtes et ajustez la quantité de crème si nécessaire.",
+      "7. Poivrez selon vos goûts et servez chaud."
+    ]
+  },
+  {
+    "id": "10",
+    "title": "Gnocchi aux tomates cerises",
+    "link": "Adapté de Tout dans un plat et juste au four de Sarah Thomann",
+    "image": "images/gnocchis_tomates.jpg",
+    "baseServings": 4,
+    "meta": {
+      "inherentlyVegan": false,
+      "adaptableVegan": false,
+      "inherentlyGlutenFree": false,
+      "adaptableGlutenFree": false,
+      "inherentlyVegetarian": true,
+      "adaptableVegetarian": false
+    },
+    "prepTime": "10 min",
+    "cookTime": "23 min",
+    "totalTime": "33 min",
+    "ingredients": [
+      {
+        "name": "Gnocchi",
+        "quantity": 750,
+        "unit": "g",
+        "optional": false,
+        "notes": "Entre 700 et 800 g de gnocchi, ici 750 g"
+      },
+      {
+        "name": "Tomates cerises",
+        "quantity": 300,
+        "unit": "g",
+        "optional": false,
+        "notes": ""
+      },
+      {
+        "name": "Pesto à la Genovese",
+        "quantity": 2,
+        "unit": "pots",
+        "optional": false,
+        "notes": "Vous pouvez en utiliser 1 si vous préférez une sauce plus légère"
+      },
+      {
+        "name": "Burrata",
+        "quantity": 2,
+        "unit": "boules",
+        "optional": false,
+        "notes": ""
+      },
+      {
+        "name": "Boulettes de viande végétales",
+        "quantity": 200,
+        "unit": "grammes",
+        "optional": true,
+        "notes": "Optionnel"
+      },
+      {
+        "name": "Basilic frais",
+        "quantity": null,
+        "unit": "",
+        "optional": false,
+        "notes": "Quelques feuilles pour le dressage"
+      },
+      {
+        "name": "Huile d'olive",
+        "quantity": 2,
+        "unit": "cuillères à soupe",
+        "optional": false,
+        "notes": "À verser dans le plat à gratin"
+      },
+      {
+        "name": "Crème de vinaigre balsamique",
+        "quantity": null,
+        "unit": "",
+        "optional": true,
+        "notes": "Quelques gouttes pour le dressage"
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "optional": false,
+        "notes": "À doser selon les goûts"
+      }
+    ],
+    "instructions": [
+      "1. Préchauffez le four à 180°C. Dans un plat à gratin, versez un filet d'huile d'olive. Ajoutez directement les gnocchi, les tomates cerises entières et le pesto. Mélangez",
+      "2. Enfournez pendant 20 minutes.",
+      "3. Selon le temps de cuisson, ajoutez les boulettes de viande végétales.",
+      "4. Sortez le plat, écrasez légèrement les tomates cerises à l'aide d'une fourchette (ou coupez-les en deux) et remettez au four pendant 2 à 3 minutes pour que les tomates se mélangent à la sauce.",
+      "5. Dressez le plat en ajoutant du basilic frais. Servez avec une demi-burrata par assiette, arrosez d'un filet d'huile d'olive et de quelques gouttes de crème de vinaigre balsamique, et poivrez selon vos goûts."
+    ]
   }
 ]
