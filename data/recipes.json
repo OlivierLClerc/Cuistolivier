@@ -893,5 +893,173 @@
       "4. Sortez le plat, écrasez légèrement les tomates cerises à l'aide d'une fourchette (ou coupez-les en deux) et remettez au four pendant 2 à 3 minutes pour que les tomates se mélangent à la sauce.",
       "5. Dressez le plat en ajoutant du basilic frais. Servez avec une demi-burrata par assiette, arrosez d'un filet d'huile d'olive et de quelques gouttes de crème de vinaigre balsamique, et poivrez selon vos goûts."
     ]
+  },
+  {
+    "id": "11",
+    "title": "Cilbir",
+    "link": "Tiré de https://www.undejeunerdesoleil.com/2017/05/cilbir-oeufs-poches-yaourt-turque.html",
+    "image": "images/cilbir.jpg",
+    "baseServings": 4,
+    "meta": {
+      "inherentlyVegan": false,
+      "adaptableVegan": false,
+      "inherentlyGlutenFree": true,
+      "adaptableGlutenFree": false,
+      "inherentlyVegetarian": true,
+      "adaptableVegetarian": false
+    },
+    "prepTime": "10 min",
+    "cookTime": "10-15 min",
+    "totalTime": "25 min",
+    "ingredients": [
+      {
+        "name": "Oeufs extra frais",
+        "quantity": 8,
+        "unit": "",
+        "optional": false,
+        "notes": "Pour 2 oeufs par personnes, adapter selon l'envie"
+      },
+      {
+        "name": "Yaourt grec",
+        "quantity": 800,
+        "unit": "g",
+        "optional": false,
+        "notes": "Pas 'à la grec' mais 'yaourt grec'"
+      },
+      {
+        "name": "Gousse d'ail",
+        "quantity": 2,
+        "unit": "petite",
+        "optional": false,
+        "notes": ""
+      },
+      {
+        "name": "Beurre",
+        "quantity": 60,
+        "unit": "g",
+        "optional": false
+      },
+      {
+        "name": "Menthe fraîche",
+        "quantity": 24,
+        "unit": "feuilles",
+        "optional": false
+      },
+      {
+        "name": "Coriandre en poudre",
+        "quantity": null,
+        "unit": "4 pincées",
+        "optional": true,
+        "notes": "Ou épice de votre choix (zatar, cumin...)"
+      },
+      {
+        "name": "Paprika",
+        "quantity": null,
+        "unit": "4 pincées",
+        "optional": true,
+        "notes": "Fumé"
+      },
+      {
+        "name": "Pistaches",
+        "quantity": null,
+        "unit": "8",
+        "optional": true,
+        "notes": "concassées"
+      },
+      {
+        "name": "Vinaigre de cidre",
+        "quantity": null,
+        "unit": "",
+        "optional": false
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "optional": false
+      }
+    ],
+    "instructions": [
+      "1. Mélangez le yaourt avec l'ail râpé, la moitié des feuilles de menthe ciselées (gardez le reste pour le dressage), puis assaisonnez avec la coriandre, le paprika fumé et du sel.",
+      "2. Faites frémir une casserole d'eau et incorporez-y 2 à 3 cuillères à soupe de vinaigre de cidre. Cassez un œuf dans un bol, créez un tourbillon dans l'eau à l'aide d'une cuillère, puis laissez-y glisser l'œuf délicatement au centre.",
+      "3. Laissez cuire environ 3 minutes en retournant à mi-cuisson. Une fois cuits, égouttez les œufs sur du papier absorbant.",
+      "4. Si nécessaire, retirez les filaments d'œuf indésirables. Disposez-les ensuite sur le yaourt assaisonné, nappez de beurre fondu, puis saupoudrez de poivre, de paprika fumé et de pistaches concassées. Ajoutez les feuilles de menthe restantes et servez accompagné de pain pita grillé ou tout autre pain de votre choix."
+    ]
+  },
+  {
+    "id": "12",
+    "title": "Tarte fine aux champignons de Paris",
+    "link": "Tiré de https://www.magazine-mint.fr/articles/tarte-champignons-de-paris-lignac/",
+    "image": "images/tarte_champignons.jpg",
+    "baseServings": 4,
+    "meta": {
+      "inherentlyVegan": false,
+      "adaptableVegan": false,
+      "inherentlyGlutenFree": false,
+      "adaptableGlutenFree": false,
+      "inherentlyVegetarian": true,
+      "adaptableVegetarian": false
+    },
+    "prepTime": "45 min",
+    "cookTime": "25 min",
+    "totalTime": "1 heure 10 min",
+    "ingredients": [
+      {
+        "name": "Pâte feuilletée",
+        "quantity": 1,
+        "unit": "",
+        "optional": false
+      },
+      {
+        "name": "Champignons de Paris rosés de différentes tailles",
+        "quantity": 600,
+        "unit": "g",
+        "optional": false
+      },
+      {
+        "name": "Oignon",
+        "quantity": 1,
+        "unit": "",
+        "optional": false
+      },
+      {
+        "name": "Beurre",
+        "quantity": 20,
+        "unit": "g",
+        "optional": false
+      },
+      {
+        "name": "Huile d'olive",
+        "quantity": null,
+        "unit": "",
+        "optional": false
+      },
+      {
+        "name": "Fleur de sel",
+        "quantity": null,
+        "unit": "",
+        "optional": false
+      },
+      {
+        "name": "Ail fumé en poudre",
+        "quantity": null,
+        "unit": "1 pincée",
+        "optional": false
+      },
+      {
+        "name": "Poivre du moulin",
+        "quantity": null,
+        "unit": "",
+        "optional": false
+      }
+    ],
+    "instructions": [
+      "1. Préchauffez le four à 200°C. Découpez un disque de pâte feuilletée de 24 cm de diamètre à l'aide d'un cercle à pâtisserie. Déposez-le sur une plaque recouverte de papier cuisson, puis recouvrez d'une seconde plaque pour éviter qu'il ne gonfle. Faites cuire 16 minutes au four, puis laissez refroidir.",
+      "2. Coupez la moitié des champignons en lamelles fines (environ 2 mm d'épaisseur) et hachez finement l'autre moitié ainsi que les extrémités en duxelles.",
+      "3. Faites chauffer une poêle avec un filet d'huile d'olive et le beurre. Faites revenir l'oignon jusqu'à ce qu'il devienne translucide, puis ajoutez la duxelles de champignons. Assaisonnez avec la fleur de sel, l'ail fumé et le poivre. Laissez cuire jusqu'à évaporation complète de l'eau de végétation, puis réservez.",
+      "4. Dans une poêle chaude avec un peu d'huile d'olive, faites revenir les lamelles de champignons en plusieurs fois pour qu'elles dorent légèrement. Égouttez-les sur une assiette et réservez.",
+      "5. Étalez la duxelles de champignons sur la pâte feuilletée précuite, puis disposez harmonieusement les lamelles de champignons sur le dessus.",
+      "6. Enfournez à 190°C pendant 5 minutes pour réchauffer la tarte. Avant de servir, assaisonnez avec de la fleur de sel et du poivre du moulin."
+    ]
   }
 ]
