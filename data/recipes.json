@@ -1061,5 +1061,88 @@
       "5. Étalez la duxelles de champignons sur la pâte feuilletée précuite, puis disposez harmonieusement les lamelles de champignons sur le dessus.",
       "6. Enfournez à 190°C pendant 5 minutes pour réchauffer la tarte. Avant de servir, assaisonnez avec de la fleur de sel et du poivre du moulin."
     ]
+  },
+  {
+    "id": "13",
+    "title": "Bol de riz aux herbes et farce végétale",
+    "link": "Recette personnelle",
+    "image": "images/riz_epice.jpg",
+    "baseServings": 2,
+    "meta": {
+      "inherentlyVegan": true,
+      "adaptableVegan": true,
+      "inherentlyGlutenFree": true,
+      "adaptableGlutenFree": true,
+      "inherentlyVegetarian": true,
+      "adaptableVegetarian": true
+    },
+    "prepTime": "10 min",
+    "cookTime": "20 min",
+    "totalTime": "30 min",
+    "ingredients": [
+      { "name": "Riz blanc", "quantity": 300, "unit": "g", "optional": false },
+      { "name": "Feuilles de laurier", "quantity": 2, "unit": "", "optional": false },
+      { "name": "Badiane", "quantity": null, "unit": "", "optional": true },
+      { "name": "Bâton de cannelle", "quantity": 1, "unit": "", "optional": true },
+      { "name": "Oignon blanc", "quantity": 1, "unit": "gros", "optional": false },
+      { "name": "Coriandre fraîche", "quantity": 1, "unit": "bouquet", "optional": false },
+      { "name": "Menthe fraîche", "quantity": 1, "unit": "petit bouquet", "optional": false },
+      { "name": "Farce végétale (type Acro) ou bœuf haché", "quantity": 200, "unit": "g", "optional": false },
+      { "name": "Huile", "quantity": null, "unit": "", "optional": false },
+      { "name": "Curry, piment, cumin (au choix)", "quantity": null, "unit": "", "optional": true },
+      { "name": "Paprika fumé", "quantity": null, "unit": "", "optional": true },
+      { "name": "Sauce soja", "quantity": null, "unit": "", "optional": false },
+      { "name": "Sriracha", "quantity": null, "unit": "", "optional": true },
+      { "name": "Graines de sésame ou cacahuètes torréfiées", "quantity": null, "unit": "", "optional": true },
+      { "name": "Oignon nouveau", "quantity": 1, "unit": "", "optional": true }
+    ],
+    "instructions": [
+      "1. Rincez le riz blanc à l'eau claire jusqu'à ce que l'eau devienne légèrement translucide. Placez-le dans une casserole, ajoutez de l'eau jusqu'à environ 1 cm au-dessus du riz. Ajoutez les feuilles de laurier, la badiane et éventuellement le bâton de cannelle.",
+      "2. Portez à ébullition, puis baissez le feu, couvrez et laissez cuire à feu doux environ 10 minutes, jusqu'à absorption complète de l'eau (plus ou moins)",
+      "3. Pendant ce temps, ciselez finement l'oignon blanc, le bouquet de coriandre et celui de menthe. Réservez.",
+      "4. Faites chauffer un peu d'huile dans un wok à feu vif. Ajoutez les épices choisies (curry, piment, cumin) et incorporez la farce végétale (ou le bœuf haché). Assaisonnez avec du paprika fumé et du sel.",
+      "5. Quand la farce est bien saisie, ajoutez l'oignon blanc en fin de cuisson pour qu'il reste légèrement croquant. Incorporez les herbes ciselées et déglacez avec un peu de sauce soja. Mélangez bien.",
+      "6. Pour le dressage, disposez du riz blanc dans un bol, ajoutez le mélange de farce végétale et d’herbes par-dessus. Terminez avec un filet de sriracha, quelques graines de sésame ou des cacahuètes torréfiées, et des rondelles d'oignon nouveau au centre."
+    ]
+  },
+  {
+    "id": "14",
+    "title": "Velouté de patate douce au lait de coco et maïs grillé",
+    "link": "Recette personnelle",
+    "image": "images/veloute_patate_douce.jpg",
+    "baseServings": 4,
+    "meta": {
+      "inherentlyVegan": true,
+      "adaptableVegan": true,
+      "inherentlyGlutenFree": true,
+      "adaptableGlutenFree": true,
+      "inherentlyVegetarian": true,
+      "adaptableVegetarian": true
+    },
+    "prepTime": "15 min",
+    "cookTime": "25 min",
+    "totalTime": "40 min",
+    "ingredients": [
+      { "name": "Patates douces", "quantity": 600, "unit": "g", "optional": false },
+      { "name": "Oignons", "quantity": 1, "unit": "ou 2", "optional": false },
+      { "name": "Gousse d'ail", "quantity": 1, "unit": "", "optional": false },
+      { "name": "Curry en poudre", "quantity": 1, "unit": "cuillère à soupe", "optional": false },
+      { "name": "Lait de coco", "quantity": 10, "unit": "cl", "optional": false },
+      { "name": "Bouillon de légumes", "quantity": 1.25, "unit": "l", "optional": false },
+      { "name": "Huile de coco", "quantity": 2, "unit": "cuillères à soupe", "optional": false },
+      { "name": "Maïs en boîte", "quantity": 100, "unit": "g", "optional": false },
+      { "name": "Fleur de sel", "quantity": null, "unit": "", "optional": false },
+      { "name": "Piment", "quantity": 1, "unit": "pincée", "optional": false },
+      { "name": "Coriandre fraîche", "quantity": 4, "unit": "brins", "optional": false },
+      { "name": "Citron vert", "quantity": 1, "unit": "", "optional": false }
+    ],
+    "instructions": [
+      "1. Pelez les patates douces et coupez-les en cubes. Épluchez et émincez les oignons. Pelez, dégermez et hachez l'ail.",
+      "2. Dans un faitout, faites chauffer 1 cuillère à soupe d'huile de coco. Faites revenir l'oignon et l'ail pendant 2 minutes.",
+      "3. Ajoutez le curry, mélangez bien puis incorporez les cubes de patate douce. Versez le bouillon de légumes.",
+      "4. Laissez cuire à petits frémissements pendant environ 20 minutes, jusqu'à ce que les patates douces soient tendres. Ajoutez le lait de coco, puis mixez finement le tout.",
+      "5. Dans une petite casserole, faites chauffer la seconde cuillère d'huile de coco et faites dorer le maïs pendant 2 minutes avec une pincée de fleur de sel et le piment. Ciselez la coriandre et ajoutez-la au maïs.",
+      "6. Servez le velouté dans des bols, garnissez avec le maïs grillé, un filet de jus de citron vert, un filet de lait de coco et quelques brins de coriandre."
+    ]
   }
 ]
