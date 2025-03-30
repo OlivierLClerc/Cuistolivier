@@ -1065,7 +1065,6 @@
   {
     "id": "13",
     "title": "Bol de riz aux herbes et farce végétale",
-    "link": "Recette personnelle",
     "image": "images/riz_epice.jpg",
     "baseServings": 2,
     "meta": {
@@ -1108,8 +1107,7 @@
   {
     "id": "14",
     "title": "Velouté de patate douce au lait de coco et maïs grillé",
-    "link": "Recette personnelle",
-    "image": "images/veloute_patate_douce.jpg",
+    "image": "images/soupe_patate_douce.jpg",
     "baseServings": 4,
     "meta": {
       "inherentlyVegan": true,
