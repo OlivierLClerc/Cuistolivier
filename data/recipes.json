@@ -1066,7 +1066,7 @@
     "id": "13",
     "title": "Bol de riz aux herbes et farce végétale",
     "image": "images/riz_epice.jpg",
-    "baseServings": 2,
+    "baseServings": 4,
     "meta": {
       "inherentlyVegan": true,
       "adaptableVegan": true,
@@ -1086,13 +1086,13 @@
       { "name": "Oignon blanc", "quantity": 1, "unit": "gros", "optional": false },
       { "name": "Coriandre fraîche", "quantity": 1, "unit": "bouquet", "optional": false },
       { "name": "Menthe fraîche", "quantity": 1, "unit": "petit bouquet", "optional": false },
-      { "name": "Farce végétale (type Acro) ou bœuf haché", "quantity": 200, "unit": "g", "optional": false },
+      { "name": "Farce végétale (type Accro) ou bœuf haché", "quantity": 400, "unit": "g", "optional": false },
       { "name": "Huile", "quantity": null, "unit": "", "optional": false },
       { "name": "Curry, piment, cumin (au choix)", "quantity": null, "unit": "", "optional": true },
       { "name": "Paprika fumé", "quantity": null, "unit": "", "optional": true },
       { "name": "Sauce soja", "quantity": null, "unit": "", "optional": false },
       { "name": "Sriracha", "quantity": null, "unit": "", "optional": true },
-      { "name": "Graines de sésame ou cacahuètes torréfiées", "quantity": null, "unit": "", "optional": true },
+      { "name": "Graines de sésame grillés ou cacahuètes torréfiées", "quantity": null, "unit": "", "optional": true },
       { "name": "Oignon nouveau", "quantity": 1, "unit": "", "optional": true }
     ],
     "instructions": [
@@ -1117,9 +1117,9 @@
       "inherentlyVegetarian": true,
       "adaptableVegetarian": true
     },
-    "prepTime": "15 min",
-    "cookTime": "25 min",
-    "totalTime": "40 min",
+    "prepTime": "20 min",
+    "cookTime": "30 min",
+    "totalTime": "50 min",
     "ingredients": [
       { "name": "Patates douces", "quantity": 600, "unit": "g", "optional": false },
       { "name": "Oignons", "quantity": 1, "unit": "ou 2", "optional": false },
