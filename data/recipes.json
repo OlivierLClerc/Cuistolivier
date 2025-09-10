@@ -1254,5 +1254,39 @@
       "4. Faites cuire la crêpe pendant environ 4-5 minutes de chaque côté, jusqu'à ce qu'elle soit dorée et croustillante. Répétez l'opération avec le reste de la pâte.",
       "5. Servez les kimchijeon chauds, garnis de graines de sésame et d'oignons nouveaux hachés si désiré."
     ]
+  },
+          {
+    "id": "18",
+    "title": "Foulet",
+    "image": "images/foulet_prep.jpg",
+    "baseServings": 4,
+    "meta": {
+      "inherentlyVegan": true,
+      "adaptableVegan": true,
+      "inherentlyGlutenFree": false,
+      "adaptableGlutenFree": true,
+      "inherentlyVegetarian": true,
+      "adaptableVegetarian": true
+    },
+    "prepTime": "20 min",
+    "cookTime": "30 min",
+    "totalTime": "50 min",
+    "ingredients": [
+      { "name": "Tofu soyeux", "quantity": 200, "unit": "g", "optional": false },
+      { "name": "Maizena", "quantity": 100, "unit": "g", "optional": false },
+      { "name": "Sauce soja", "quantity": 2, "unit": "cuillères à soupe", "optional": false },
+      { "name": "Sel", "quantity": null, "unit": "", "optional": false },
+      { "name": "Poivre", "quantity": null, "unit": "", "optional": false },
+      { "name": "Épices au choix (curry, paprika fumé, cumin...)", "quantity": null, "unit": "", "optional": true },
+      { "name": "Huile végétale", "quantity": null, "unit": "", "optional": false }
+    ],
+    "instructions": [
+      "1. La veille, placez le tofu par bloc sur du sopalin ou une serviette, et pressez-le (je le recouvre de sopalin et place une plache avec des poids dessus). Laissez-le ainsi environ 1 heure",
+      "2. Une fois dégorgez, placez les blocs dans un récipient (pas la peine de le fermer) que vous mettrez au congélateur toute une nuit.",
+      "3. Le jour même, sortez le tofu du congélateur et laissez-le décongeler à température ambiante (environ 1 heure). Vous pouvez aussi le mettre au four à 60° pour accélérer le processus.",
+      "4. Une fois décongelé, pressez à nouveau le tofu pour enlever l'excès d'eau, puis émiettez-le en gros morceaux dans un saladier.",
+      "5. Ajoutez la maïzena, la sauce soja, le sel, le poivre et les épices de votre choix (curry, paprika fumé, cumin...). Mélangez bien.",
+      "6. Mettez le tofu émietté au four à 180° pendant environ 30 minutes, arrosez d'huile végétale."
+    ]
   }
 ]
