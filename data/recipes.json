@@ -1142,5 +1142,46 @@
       "5. Dans une petite casserole, faites chauffer la seconde cuillère d'huile de coco et faites dorer le maïs pendant 2 minutes avec une pincée de fleur de sel et le piment. Ciselez la coriandre et ajoutez-la au maïs.",
       "6. Servez le velouté dans des bols, garnissez avec le maïs grillé, un filet de jus de citron vert, un filet de lait de coco et quelques brins de coriandre."
     ]
+  },
+    {
+    "id": "15",
+    "title": "Galettes kebab vegétarienne, sauce au yaourt",
+    "image": "images/galette_kebab.jpg",
+    "baseServings": 4,
+    "meta": {
+      "inherentlyVegan": false,
+      "adaptableVegan": true,
+      "inherentlyGlutenFree": false,
+      "adaptableGlutenFree": true,
+      "inherentlyVegetarian": true,
+      "adaptableVegetarian": true
+    },
+    "prepTime": "20 min",
+    "cookTime": "45 min",
+    "totalTime": "1 heure 5 min",
+    "ingredients": [
+      { "name": "Dürüms (ou wraps)", "quantity": 4, "unit": "", "optional": false },
+      { "name": "Viande de kebab vg (ou efiloché, ou falafel, à votre guise)", "quantity": 400, "unit": "g", "optional": false },
+      { "name": "Oignon rouge", "quantity": 1, "unit": "", "optional": false },
+      { "name": "Poivrons rouge", "quantity": 3, "unit": "", "optional": false },
+      { "name": "Fromage grec", "quantity": 400, "unit": "g", "optional": false },
+      { "name": "Concombre", "quantity": 1, "unit": "g", "optional": false },
+      { "name": "Grenade", "quantity": 1, "unit": "", "optional": false },
+      { "name": "Pistaches", "quantity": 20, "unit": "", "optional": false },
+      { "name": "Feuilles de menthe", "quantity": 20, "unit": "", "optional": false },
+      { "name": "Poivre", "quantity": null, "unit": "", "optional": false },
+      { "name": "Huile d'olive", "quantity": null, "unit": "", "optional": false },
+      { "name": "Sauce (tabasco bbq, cury...)", "quantity": null, "unit": "", "optional": false }
+    ],
+    "instructions": [
+      "1. Préchauffez le four en mode grill à 220°C. Placez les poivrons entiers sur une plaque de cuisson, arrosez les d'huile d'olive et enfournez pendant 35 minutes en les tournant à mi-cuisson, jusqu’à ce que la peau noircisse un peu. Retirez du four, laissez tiédir, pelez-les et coupez-les en petits morceaux.",
+      "2. Hachez au mixeur le concombre, puis placez le dans une serviette pour le faire dégorger (environ 15 minutes).",
+      "3. Coupez l’oignon rouge en fines lamelles, et passez le au micro-ondes 1 minute pour l’adoucir.",
+      "4. Coupez la grenade en quartier. Pour récupérer les grains, remplissez un saladier d’eau froide, plongez-y les quartiers de grenade et prélevez les grains à l’aide de vos doigts. Les grains vont couler au fond du saladier et les peaux remonter à la surface (et cela vous évite de vous tacher).",
+      "5. Pour la sauce, mélangez le yaourt grec avec le concombre égoutté, et poivré (vous pouvez aussi rajouter d'autres épices si vous le désirez, comme de l'ail en poudre).",
+      "6. Faites cuire la viande de kebab végétarienne selon les instructions du paquet.",
+      "7. Passez les dürüms (ou wraps) au four 4-5 minutes pour les réchauffer.",
+      "8. Pour le dressage, étalez un peu de sauce au yaourt sur chaque galette, ajoutez la viande de kebab végétarienne, les poivrons rôtis, les lamelles d’oignon rouge, les grains de grenade, les pistaches et les feuilles de menthe. Terminez avec la sauce de votre choix (tabasco bbq, curry...)."
+    ]
   }
 ]
