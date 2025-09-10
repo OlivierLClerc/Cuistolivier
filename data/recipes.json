@@ -1268,16 +1268,16 @@
       "inherentlyVegetarian": true,
       "adaptableVegetarian": true
     },
-    "prepTime": "20 min",
+    "prepTime": "2 jours (mais sans faire grand chose)",
     "cookTime": "30 min",
-    "totalTime": "50 min",
+    "totalTime": "2 jours et 30 min",
     "ingredients": [
-      { "name": "Tofu soyeux", "quantity": 200, "unit": "g", "optional": false },
-      { "name": "Maizena", "quantity": 100, "unit": "g", "optional": false },
+      { "name": "Tofu soyeux", "quantity": 300, "unit": "g", "optional": false },
+      { "name": "Maizena", "quantity": 50, "unit": "g (en fait c'est plutôt au feeling)", "optional": false },
       { "name": "Sauce soja", "quantity": 2, "unit": "cuillères à soupe", "optional": false },
       { "name": "Sel", "quantity": null, "unit": "", "optional": false },
       { "name": "Poivre", "quantity": null, "unit": "", "optional": false },
-      { "name": "Épices au choix (curry, paprika fumé, cumin...)", "quantity": null, "unit": "", "optional": true },
+      { "name": "Épices au choix (curry, paprika fumé, cumin, ail...)", "quantity": null, "unit": "", "optional": true },
       { "name": "Huile végétale", "quantity": null, "unit": "", "optional": false }
     ],
     "instructions": [
