@@ -1183,5 +1183,76 @@
       "7. Passez les dürüms (ou wraps) au four 4-5 minutes pour les réchauffer.",
       "8. Pour le dressage, étalez un peu de sauce au yaourt sur chaque galette, ajoutez la viande de kebab végétarienne, les poivrons rôtis, les lamelles d’oignon rouge, les grains de grenade, les pistaches et les feuilles de menthe. Terminez avec la sauce de votre choix (tabasco bbq, curry...)."
     ]
+  },
+      {
+    "id": "16",
+    "title": "Maki végétariens",
+    "image": "images/maki_vg.jpg",
+    "baseServings": 4,
+    "meta": {
+      "inherentlyVegan": true,
+      "adaptableVegan": true,
+      "inherentlyGlutenFree": true,
+      "adaptableGlutenFree": true,
+      "inherentlyVegetarian": true,
+      "adaptableVegetarian": true
+    },
+    "prepTime": "50 min",
+    "cookTime": "15 min",
+    "totalTime": "1 heure 5 min",
+    "ingredients": [
+      { "name": "Feuilles d'algues (nori)", "quantity": 6, "unit": "feuilles", "optional": false },
+      { "name": "Riz", "quantity": 400, "unit": "g", "optional": false },
+      { "name": "Concombre", "quantity": 1, "unit": "", "optional": false },
+      { "name": "Avocat", "quantity": 1, "unit": "", "optional": false },
+      { "name": "Carotte", "quantity": 1, "unit": "", "optional": false },
+      { "name": "Saint-morêt", "quantity": 75, "unit": "g", "optional": false },
+      { "name": "Vinaigre de riz", "quantity": 5, "unit": "cl", "optional": false },
+      { "name": "Sucre", "quantity": 1, "unit": "cuillère à soupe", "optional": false },
+      { "name": "Graines de sésame (noir et blanc)", "quantity": null, "unit": "", "optional": true },
+      { "name": "Sauce soja", "quantity": null, "unit": "", "optional": false },
+      { "name": "Cacahuètes non salées torréfiées", "quantity": 20, "unit": "", "optional": false },
+      { "name": "Feuilles de menthe", "quantity": 20, "unit": "", "optional": false }
+    ],
+    "instructions": [
+      "1. Rincez le riz à l'eau claire jusqu'à ce que l'eau devienne légèrement translucide. Placez-le dans une casserole, ajoutez de l'eau jusqu'à environ 1 cm au-dessus du riz. Laissez-le tremper environ 20 minutes. Portez à ébullition, puis réduisez à feu doux et couvrez. Laissez cuire pendant quelques minutes (je vérifie de temps en temps pour ne pas surcuire) et égouttez si besoin (mais il ne devrait plus rester d'eau).",
+      "2. Pendant ce temps, préparez les légumes : coupez le concombre et la carotte en fines lamelles, l'avocat en tranches.",
+      "3. Dans un bol, mélangez le vinaigre de riz, le sucre et une pincée de sel. Incorporez ce mélange au riz cuit et mélangez délicatement. Laissez refroidir à température ambiante.",
+      "4. Etalez le riz sur une feuille de nori, en appuyant pour l'écraser un peu",
+      "5. Disposez les légumes sur le riz. Garnissez les différentes feuilles selon vos envies : ajoutez les feuilles de menthe, des cacahuètes, du Saint-morêt, des graines de sésame, de la sauce sriracha (pas tout dans le même) puis roulez le tout en serrant bien.",
+      "6. Coupez le rouleau en morceaux et servez avec de la sauce soja."
+    ]
+  },
+        {
+    "id": "16",
+    "title": "Kimchijeon",
+    "image": "images/kimchi_jeon_prep.jpg",
+    "baseServings": 4,
+    "meta": {
+      "inherentlyVegan": false,
+      "adaptableVegan": true,
+      "inherentlyGlutenFree": false,
+      "adaptableGlutenFree": false,
+      "inherentlyVegetarian": false,
+      "adaptableVegetarian": false
+    },
+    "prepTime": "20 min",
+    "cookTime": "30 min",
+    "totalTime": "50 min",
+    "ingredients": [
+      { "name": "Kimchi", "quantity": 200, "unit": "g", "optional": false },
+      { "name": "Farine de blé", "quantity": 100, "unit": "g", "optional": false },
+      { "name": "Eau", "quantity": 150, "unit": "ml", "optional": false },
+      { "name": "Huile végétale", "quantity": null, "unit": "", "optional": false },
+      { "name": "Graines de sésame", "quantity": null, "unit": "", "optional": true },
+      { "name": "Oignons nouveaux", "quantity": 2, "unit": "", "optional": true }
+    ],
+    "instructions": [
+      "1. Coupez le kimchi en petits morceaux avec des ciseaux. Gardez un peu de jus",
+      "2. Dans un bol, mélangez le kimchi haché, la farine et l'eau jusqu'à obtenir une pâte plus ou moins lisse.",
+      "3. Faites chauffer une poêle avec un peu d'huile végétale à feu moyen. Versez une louche de pâte dans la poêle pour former une crêpe d'environ 1 cm d'épaisseur.",
+      "4. Faites cuire la crêpe pendant environ 4-5 minutes de chaque côté, jusqu'à ce qu'elle soit dorée et croustillante. Répétez l'opération avec le reste de la pâte.",
+      "5. Servez les kimchijeon chauds, garnis de graines de sésame et d'oignons nouveaux hachés si désiré."
+    ]
   }
 ]
