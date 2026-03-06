@@ -1,7 +1,7 @@
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 
 title: "Cuist'Olivier"
-description: "Recettes maison, généreuses et lumineuses."
+description: "Recettes maison."
 url: "https://olivierlclerc.github.io"
 baseurl: "/Cuistolivier"
 locale: "fr_FR"
