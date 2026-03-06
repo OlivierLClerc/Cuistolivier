@@ -1,7 +1,7 @@
 ---
 layout: recipes
 title: "Recettes"
-description: "Toutes les recettes de Cuist'Olivier, du plat convivial au dessert."
+description: "Toutes les recettes de Cuist'Olivier."
 permalink: /recipes/
 ---
 

@@ -8,7 +8,7 @@ locale: "fr_FR"
 lang: "fr"
 
 author:
-  name: "Olivier Le Clerc"
+  name: "Olivier Clerc"
 
 plugins:
   - jekyll-feed
