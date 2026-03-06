@@ -1,0 +1,119 @@
+---
+layout: default
+---
+{% assign has_options = false %}
+{% if page.diet.vegan != 'none' or page.diet.gluten_free != 'none' or page.diet.vegetarian != 'none' %}
+  {% assign has_options = true %}
+{% endif %}
+
+<article class="recipe-page js-recipe" data-base-servings="{{ page.base_servings }}">
+  <section class="recipe-hero">
+    <div class="site-frame recipe-hero__grid">
+      <div class="recipe-hero__copy">
+        <p class="eyebrow">Recette</p>
+        <h1>{{ page.title }}</h1>
+        <div class="recipe-hero__lede">
+          {{ content }}
+        </div>
+
+        <div class="recipe-meta">
+          <span>Pour {{ page.base_servings }} personnes</span>
+          <span>Préparation {{ page.prep_time }}</span>
+          <span>Cuisson {{ page.cook_time }}</span>
+          <span>Total {{ page.total_time }}</span>
+        </div>
+
+        {% if page.source_url %}
+          <p class="recipe-source">
+            Source :
+            <a href="{{ page.source_url }}" target="_blank" rel="noreferrer">{{ page.source_label }}</a>
+          </p>
+        {% endif %}
+
+        <div class="badge-row">
+          {% include diet-badges.html item=page %}
+        </div>
+      </div>
+
+      <figure class="recipe-hero__media">
+        <img src="{{ page.hero_image | relative_url }}" alt="{{ page.title }}">
+      </figure>
+    </div>
+  </section>
+
+  <section class="section-block">
+    <div class="site-frame recipe-body">
+      <aside class="recipe-panel">
+        <div class="recipe-panel__box">
+          <div class="control-group">
+            <label for="servings">Portions</label>
+            <input id="servings" class="js-servings" type="number" min="1" step="1" value="{{ page.base_servings }}">
+          </div>
+
+          {% if has_options %}
+            <div class="control-group">
+              <p class="control-group__label">Adaptations</p>
+              <div class="toggle-list">
+                {% if page.diet.vegan != 'none' %}
+                  <label class="toggle">
+                    <input
+                      class="js-diet"
+                      type="checkbox"
+                      value="vegan"
+                      {% if page.diet.vegan == 'inherent' %}checked disabled{% endif %}
+                    >
+                    <span>Vegan{% if page.diet.vegan == 'adaptable' %} adaptable{% endif %}</span>
+                  </label>
+                {% endif %}
+                {% if page.diet.gluten_free != 'none' %}
+                  <label class="toggle">
+                    <input
+                      class="js-diet"
+                      type="checkbox"
+                      value="gluten_free"
+                      {% if page.diet.gluten_free == 'inherent' %}checked disabled{% endif %}
+                    >
+                    <span>Sans gluten{% if page.diet.gluten_free == 'adaptable' %} adaptable{% endif %}</span>
+                  </label>
+                {% endif %}
+                {% if page.diet.vegetarian != 'none' %}
+                  <label class="toggle">
+                    <input
+                      class="js-diet"
+                      type="checkbox"
+                      value="vegetarian"
+                      {% if page.diet.vegetarian == 'inherent' %}checked disabled{% endif %}
+                    >
+                    <span>Végétarien{% if page.diet.vegetarian == 'adaptable' %} adaptable{% endif %}</span>
+                  </label>
+                {% endif %}
+              </div>
+            </div>
+          {% endif %}
+
+          <div class="ingredient-block">
+            <h2>Ingrédients</h2>
+            <ul class="ingredient-list js-ingredient-list">
+              {% for ingredient in page.ingredients %}
+                <li>{% include ingredient-line.html ingredient=ingredient %}</li>
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
+      </aside>
+
+      <div class="recipe-content">
+        <h2>Préparation</h2>
+        <ol class="step-list">
+          {% for step in page.steps %}
+            <li>{{ step }}</li>
+          {% endfor %}
+        </ol>
+      </div>
+    </div>
+  </section>
+
+  <script type="application/json" class="js-ingredients-data">{{ page.ingredients | jsonify }}</script>
+</article>
+
+<script defer src="{{ '/assets/js/recipe.js' | relative_url }}"></script>

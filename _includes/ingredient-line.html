@@ -1,0 +1,8 @@
+{% assign ingredient = include.ingredient %}
+{% assign ingredient_name = include.name | default: ingredient.name %}
+{% capture line %}
+  {% if ingredient.quantity != nil %}{{ ingredient.quantity }} {% endif %}
+  {% if ingredient.unit %}{{ ingredient.unit }} {% endif %}
+  {{ ingredient_name }}{% if ingredient.notes %} ({{ ingredient.notes }}){% endif %}
+{% endcapture %}
+{{ line | strip | replace: "  ", " " }}

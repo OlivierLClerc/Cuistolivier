@@ -1,0 +1,24 @@
+---
+layout: default
+---
+{% assign recipes = site.recipes | sort: "sort_order" %}
+<section class="page-header">
+  <div class="site-frame page-header__inner">
+    <p class="eyebrow">Archive</p>
+    <h1>{{ page.title }}</h1>
+    <div class="page-header__copy">
+      {{ content }}
+    </div>
+    <p class="page-header__meta">{{ recipes.size }} recettes publiées</p>
+  </div>
+</section>
+
+<section class="section-block">
+  <div class="site-frame">
+    <div class="recipe-grid recipe-grid--archive">
+      {% for recipe in recipes %}
+        {% include recipe-card.html recipe=recipe %}
+      {% endfor %}
+    </div>
+  </div>
+</section>

@@ -1,0 +1,49 @@
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
+
+title: "Cuist'Olivier"
+description: "Recettes maison, généreuses et lumineuses."
+url: "https://olivierlclerc.github.io"
+baseurl: "/Cuistolivier"
+locale: "fr_FR"
+lang: "fr"
+
+author:
+  name: "Olivier Le Clerc"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-remote-theme
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+sass:
+  style: compressed
+
+collections:
+  recipes:
+    output: true
+    sort_by: sort_order
+    permalink: /recipes/:slug/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+      image: /assets/images/recipes/bowl2.jpg
+  - scope:
+      path: ""
+      type: recipes
+    values:
+      layout: recipe
+
+exclude:
+  - data
+  - css
+  - js
+  - vendor
+  - node_modules

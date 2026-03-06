@@ -1,0 +1,18 @@
+{% assign item = include.item %}
+{% if item.diet.vegan == 'inherent' %}
+  <span class="badge">Vegan</span>
+{% elsif item.diet.vegan == 'adaptable' %}
+  <span class="badge badge--muted">Vegan adaptable</span>
+{% endif %}
+
+{% if item.diet.gluten_free == 'inherent' %}
+  <span class="badge">Sans gluten</span>
+{% elsif item.diet.gluten_free == 'adaptable' %}
+  <span class="badge badge--muted">Sans gluten adaptable</span>
+{% endif %}
+
+{% if item.diet.vegetarian == 'inherent' %}
+  <span class="badge">Végétarien</span>
+{% elsif item.diet.vegetarian == 'adaptable' %}
+  <span class="badge badge--muted">Végétarien adaptable</span>
+{% endif %}

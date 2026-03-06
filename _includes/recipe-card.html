@@ -1,0 +1,20 @@
+{% assign recipe = include.recipe %}
+<article class="recipe-card">
+  <a class="recipe-card__image" href="{{ recipe.url | relative_url }}">
+    <img src="{{ recipe.hero_image | relative_url }}" alt="{{ recipe.title }}">
+  </a>
+
+  <div class="recipe-card__body">
+    <div class="badge-row">
+      {% include diet-badges.html item=recipe %}
+    </div>
+
+    <h3><a href="{{ recipe.url | relative_url }}">{{ recipe.title }}</a></h3>
+    <p>{{ recipe.excerpt | strip_html | strip | truncate: 135 }}</p>
+
+    <div class="recipe-card__meta">
+      <span>{{ recipe.total_time }}</span>
+      <span>{{ recipe.base_servings }} pers.</span>
+    </div>
+  </div>
+</article>

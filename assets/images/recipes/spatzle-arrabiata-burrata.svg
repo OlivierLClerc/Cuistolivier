@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Spätzle à la sauce arrabiata et burrata</title>
+  <desc id="desc">Illustration de remplacement pour une recette sans photo.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f7ede2"/>
+      <stop offset="100%" stop-color="#dfc3a9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <circle cx="600" cy="410" r="220" fill="#fbf8f3" opacity="0.95"/>
+  <circle cx="600" cy="410" r="190" fill="#d65f42" opacity="0.9"/>
+  <circle cx="600" cy="410" r="82" fill="#fff6ed"/>
+  <g fill="#eeb870" opacity="0.82">
+    <ellipse cx="490" cy="332" rx="84" ry="28"/>
+    <ellipse cx="710" cy="356" rx="86" ry="30"/>
+    <ellipse cx="538" cy="470" rx="94" ry="30"/>
+    <ellipse cx="690" cy="500" rx="78" ry="28"/>
+  </g>
+  <text x="600" y="725" text-anchor="middle" font-family="'Cormorant Garamond', serif" font-size="68" fill="#3e2b1e">
+    Spätzle arrabiata
+  </text>
+  <text x="600" y="785" text-anchor="middle" font-family="Manrope, sans-serif" font-size="28" letter-spacing="6" fill="#7b5a43">
+    image à compléter
+  </text>
