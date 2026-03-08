@@ -63,4 +63,4 @@ steps:
   - 'Enfournez la pizza pendant 12 à 15 minutes, jusqu’à ce que la pâte soit dorée.'
 ---
 
-Une recette maison pour 2 personnes, autour de Pâte à pizza, Sauce tomate pour pizza et Oignon.
+Une recette maison pour 2 personnes, simple à refaire.

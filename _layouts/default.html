@@ -24,8 +24,7 @@
           </a>
 
           <nav class="site-nav" aria-label="Navigation principale">
-            <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}aria-current="page"{% endif %}>Accueil</a>
-            <a href="{{ '/recipes/' | relative_url }}" {% if page.url == '/recipes/' %}aria-current="page"{% endif %}>Recettes</a>
+            <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}aria-current="page"{% endif %}>Recettes</a>
           </nav>
         </div>
       </header>
@@ -37,7 +36,7 @@
       <footer class="site-footer">
         <div class="site-frame site-footer__inner">
           <p>Recettes maison, portions ajustables et pages statiques propres.</p>
-          <p><a href="{{ '/recipes/' | relative_url }}">Voir toutes les recettes</a></p>
+          <p><a href="{{ '/' | relative_url }}">Voir toutes les recettes</a></p>
         </div>
       </footer>
     </div>

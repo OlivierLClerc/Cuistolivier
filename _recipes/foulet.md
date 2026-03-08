@@ -56,4 +56,4 @@ steps:
   - 'Mettez le tofu émietté au four à 180° pendant environ 30 minutes, arrosez d''huile végétale.'
 ---
 
-Une recette maison pour 4 personnes, autour de Tofu soyeux, Maizena et Sauce soja.
+Une recette maison pour 4 personnes, simple à refaire.

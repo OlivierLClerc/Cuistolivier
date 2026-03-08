@@ -71,4 +71,4 @@ steps:
   - 'Égouttez les pâtes en conservant environ 1 cuillère à soupe d’eau de cuisson, mélangez-les rapidement avec le pesto aux poivrons, puis servez immédiatement avec des cuillères de burrata, quelques amandes, du basilic frais, du poivre et un filet d’huile d’olive.'
 ---
 
-Une recette maison pour 4 personnes, autour de Poivrons rouges, Pâtes de Gragnano (penne rigate) et Burrata.
+Une recette maison pour 4 personnes, simple à refaire.

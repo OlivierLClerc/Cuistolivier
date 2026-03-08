@@ -83,4 +83,4 @@ steps:
   - 'Pour le dressage, étalez un peu de sauce au yaourt sur chaque galette, ajoutez la viande de kebab végétarienne, les poivrons rôtis, les lamelles d’oignon rouge, les grains de grenade, les pistaches et les feuilles de menthe. Terminez avec la sauce de votre choix (tabasco bbq, curry...).'
 ---
 
-Une recette maison pour 4 personnes, autour de Dürüms (ou wraps), Viande de kebab vg (ou efiloché, ou falafel, à votre guise) et Oignon rouge.
+Une recette maison pour 4 personnes, simple à refaire.

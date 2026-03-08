@@ -62,4 +62,4 @@ steps:
   - 'Laissez tiédir quelques minutes avant de déguster, accompagné d’une salade verte.'
 ---
 
-Une recette maison pour 4 personnes, autour de Pâte brisée, Ratatouille et Œufs.
+Une recette maison pour 4 personnes, simple à refaire.

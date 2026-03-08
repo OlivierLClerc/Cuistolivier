@@ -84,4 +84,4 @@ steps:
   - 'Répartissez la semoule dans 4 bols, ajoutez les légumes préparés, déposez les tranches d’halloumi grillé (optionnel pour une version vegan) et arrosez de sriracha mayo selon vos envies.'
 ---
 
-Une recette maison pour 4 personnes, autour de Semoule (couscous), Eau bouillante salée et Avocats.
+Une recette maison pour 4 personnes, simple à refaire.

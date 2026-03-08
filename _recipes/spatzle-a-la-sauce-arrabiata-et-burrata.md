@@ -71,4 +71,4 @@ steps:
   - 'Hors du feu, déposez les deux boules de burrata au centre du plat. Coupez-les pour qu’elles se répandent sur les pâtes. Parsemez de cacahuètes torréfiées.'
 ---
 
-Une recette maison pour 4 personnes, autour de Spätzle, Sauce arrabiata et Ail.
+Une recette maison pour 4 personnes, simple à refaire.

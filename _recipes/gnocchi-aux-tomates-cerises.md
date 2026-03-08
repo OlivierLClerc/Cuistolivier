@@ -65,4 +65,4 @@ steps:
   - 'Dressez le plat en ajoutant du basilic frais. Servez avec une demi-burrata par assiette, arrosez d''un filet d''huile d''olive et de quelques gouttes de crème de vinaigre balsamique, et poivrez selon vos goûts.'
 ---
 
-Une recette maison pour 4 personnes, autour de Gnocchi, Tomates cerises et Pesto à la Genovese.
+Une recette maison pour 4 personnes, simple à refaire.

@@ -50,4 +50,4 @@ steps:
   - 'Servez les kimchijeon chauds, garnis de graines de sésame et d''oignons nouveaux hachés si désiré.'
 ---
 
-Une recette maison pour 4 personnes, autour de Kimchi, Farine de blé et Eau.
+Une recette maison pour 4 personnes, simple à refaire.

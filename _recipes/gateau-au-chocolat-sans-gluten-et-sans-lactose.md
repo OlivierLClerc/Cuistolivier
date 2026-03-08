@@ -60,4 +60,4 @@ steps:
   - 'Laissez tiédir légèrement, puis gardez au frais au moins 5 heures avant de servir (sortir 5-10 minutes avant de déguster).'
 ---
 
-Une recette maison pour 4 personnes, autour de Chocolat noir à 70%, Œufs entiers et Sucre glace.
+Une recette maison pour 4 personnes, simple à refaire.

@@ -81,4 +81,4 @@ steps:
   - 'Servez le velouté dans des bols, garnissez avec le maïs grillé, un filet de jus de citron vert, un filet de lait de coco et quelques brins de coriandre.'
 ---
 
-Une recette maison pour 4 personnes, autour de Patates douces, Oignons et Gousse d'ail.
+Une recette maison pour 4 personnes, simple à refaire.

@@ -63,4 +63,4 @@ steps:
   - 'Enfournez à 190°C pendant 5 minutes pour réchauffer la tarte. Avant de servir, assaisonnez avec de la fleur de sel et du poivre du moulin.'
 ---
 
-Une recette maison pour 4 personnes, autour de Pâte feuilletée, Champignons de Paris rosés de différentes tailles et Oignon.
+Une recette maison pour 4 personnes, simple à refaire.

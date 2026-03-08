@@ -81,4 +81,4 @@ steps:
   - 'Coupez le rouleau en morceaux et servez avec de la sauce soja.'
 ---
 
-Une recette maison pour 4 personnes, autour de Feuilles d'algues (nori), Riz et Concombre.
+Une recette maison pour 4 personnes, simple à refaire.

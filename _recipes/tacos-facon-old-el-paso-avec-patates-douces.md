@@ -76,4 +76,4 @@ steps:
   - 'Faites chauffer une poêle à feu très vif, déposez les tacos pliés dans la poêle et faites-les saisir.'
 ---
 
-Une recette maison pour 4 personnes, autour de Old El Paso French Tacos Kit, Poulet et Avocat.
+Une recette maison pour 4 personnes, simple à refaire.

@@ -82,4 +82,4 @@ steps:
   - 'Poivrez selon vos goûts et servez chaud.'
 ---
 
-Une recette maison pour 4 personnes, autour de Pâtes (type 'Al bronzo'), Knacki végétariens et Crème fraîche 30%.
+Une recette maison pour 4 personnes, simple à refaire.

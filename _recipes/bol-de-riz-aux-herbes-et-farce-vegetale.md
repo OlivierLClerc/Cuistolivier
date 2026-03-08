@@ -96,4 +96,4 @@ steps:
   - 'Pour le dressage, disposez du riz blanc dans un bol, ajoutez le mélange de farce végétale et d’herbes par-dessus. Terminez avec un filet de sriracha, quelques graines de sésame ou des cacahuètes torréfiées, et des rondelles d''oignon nouveau au centre.'
 ---
 
-Une recette maison pour 4 personnes, autour de Riz blanc, Feuilles de laurier et Oignon blanc.
+Une recette maison pour 4 personnes, simple à refaire.

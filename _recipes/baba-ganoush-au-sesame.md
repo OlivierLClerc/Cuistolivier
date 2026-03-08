@@ -56,4 +56,4 @@ steps:
   - 'Servez le baba ganoush parsemé de graines de sésame, ou conservez-le au frais (mieux vaut attendre environ une heure) en le recouvrant d’un filet d’huile d’olive et d’un film alimentaire.'
 ---
 
-Une recette maison pour 4 personnes, autour de Aubergines, Pâte de sésame (tahini) et Jus de citron jaune.
+Une recette maison pour 4 personnes, simple à refaire.
