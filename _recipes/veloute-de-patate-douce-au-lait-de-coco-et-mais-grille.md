@@ -80,5 +80,3 @@ steps:
   - 'Dans une petite casserole, faites chauffer la seconde cuillère d''huile de coco et faites dorer le maïs pendant 2 minutes avec une pincée de fleur de sel et le piment. Ciselez la coriandre et ajoutez-la au maïs.'
   - 'Servez le velouté dans des bols, garnissez avec le maïs grillé, un filet de jus de citron vert, un filet de lait de coco et quelques brins de coriandre.'
 ---
-
-Une recette maison pour 4 personnes, simple à refaire.

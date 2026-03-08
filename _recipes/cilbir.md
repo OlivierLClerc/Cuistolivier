@@ -70,5 +70,3 @@ steps:
   - 'Laissez cuire environ 3 minutes. Une fois cuits, égouttez les œufs sur du papier absorbant.'
   - 'Si nécessaire, retirez les filaments d''œuf indésirables. Disposez-les ensuite sur le yaourt assaisonné, nappez de beurre fondu, puis saupoudrez de poivre, de paprika fumé et de pistaches concassées. Ajoutez les feuilles de menthe restantes et servez accompagné de pain pita grillé ou tout autre pain de votre choix.'
 ---
-
-Une recette maison pour 4 personnes, simple à refaire.

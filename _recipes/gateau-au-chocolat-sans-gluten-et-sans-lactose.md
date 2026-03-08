@@ -59,5 +59,3 @@ steps:
   - 'Versez la pâte dans le moule, tapotez légèrement pour aérer, et enfournez pendant environ 30 minutes. Le gâteau doit gonfler et former une croûte. L''intérieur reste un peu humide à cause du chocolat concassé, qui se solidifiera avec le repos.'
   - 'Laissez tiédir légèrement, puis gardez au frais au moins 5 heures avant de servir (sortir 5-10 minutes avant de déguster).'
 ---
-
-Une recette maison pour 4 personnes, simple à refaire.

@@ -81,5 +81,3 @@ steps:
   - 'Égouttez les pâtes et mélangez-les directement avec la sauce. Si la sauce est trop épaisse, ajoutez un peu d''eau de cuisson des pâtes et ajustez la quantité de crème si nécessaire.'
   - 'Poivrez selon vos goûts et servez chaud.'
 ---
-
-Une recette maison pour 4 personnes, simple à refaire.

@@ -80,5 +80,3 @@ steps:
   - 'Disposez les légumes sur le riz. Garnissez les différentes feuilles selon vos envies : ajoutez les feuilles de menthe, des cacahuètes, du Saint-morêt, des graines de sésame, de la sauce sriracha (pas tout dans le même) puis roulez le tout en serrant bien.'
   - 'Coupez le rouleau en morceaux et servez avec de la sauce soja.'
 ---
-
-Une recette maison pour 4 personnes, simple à refaire.

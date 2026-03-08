@@ -55,5 +55,3 @@ steps:
   - 'Placez la chair des aubergines dans un mixeur avec la pâte de sésame, le jus de citron, des gousses d''ails confits (quantité selon votre goût) et une pincée de sel. Ajoutez 4 cs d’huile d’olive et mixez par à-coups jusqu’à obtenir une consistance homogène. Ajustez avec un peu d’eau si nécessaire.'
   - 'Servez le baba ganoush parsemé de graines de sésame, ou conservez-le au frais (mieux vaut attendre environ une heure) en le recouvrant d’un filet d’huile d’olive et d’un film alimentaire.'
 ---
-
-Une recette maison pour 4 personnes, simple à refaire.

@@ -62,5 +62,3 @@ steps:
   - 'Répartissez l’oignon émincé, les lanières de poivron et les tranches de champignons sur la sauce tomate. Ajoutez une poignée d’emmental râpé pour la version classique, ou remplacez-le par de la courgette râpée pour une version vegan. Si vous le souhaitez, parsemez de maïs, câpres ou tout autre ingrédient de votre choix pour personnaliser votre pizza.'
   - 'Enfournez la pizza pendant 12 à 15 minutes, jusqu’à ce que la pâte soit dorée.'
 ---
-
-Une recette maison pour 2 personnes, simple à refaire.

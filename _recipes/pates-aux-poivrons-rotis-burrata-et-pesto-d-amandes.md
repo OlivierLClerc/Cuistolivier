@@ -70,5 +70,3 @@ steps:
   - 'Pelez les poivrons refroidis et récupérez leur chair. Mixez-la avec 40 g d’amandes, le parmesan, un peu d’origan, 6 feuilles de basilic et l’huile d’olive. Ajustez l’assaisonnement avec du sel.'
   - 'Égouttez les pâtes en conservant environ 1 cuillère à soupe d’eau de cuisson, mélangez-les rapidement avec le pesto aux poivrons, puis servez immédiatement avec des cuillères de burrata, quelques amandes, du basilic frais, du poivre et un filet d’huile d’olive.'
 ---
-
-Une recette maison pour 4 personnes, simple à refaire.

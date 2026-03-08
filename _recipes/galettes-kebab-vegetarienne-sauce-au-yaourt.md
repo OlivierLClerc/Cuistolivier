@@ -82,5 +82,3 @@ steps:
   - 'Passez les dürüms (ou wraps) au four 4-5 minutes pour les réchauffer.'
   - 'Pour le dressage, étalez un peu de sauce au yaourt sur chaque galette, ajoutez la viande de kebab végétarienne, les poivrons rôtis, les lamelles d’oignon rouge, les grains de grenade, les pistaches et les feuilles de menthe. Terminez avec la sauce de votre choix (tabasco bbq, curry...).'
 ---
-
-Une recette maison pour 4 personnes, simple à refaire.

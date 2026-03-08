@@ -61,5 +61,3 @@ steps:
   - 'Versez le mélange sur la pâte et enfournez pendant environ 20 minutes, jusqu’à ce que la pâte soit bien dorée et l’appareil bien pris.'
   - 'Laissez tiédir quelques minutes avant de déguster, accompagné d’une salade verte.'
 ---
-
-Une recette maison pour 4 personnes, simple à refaire.

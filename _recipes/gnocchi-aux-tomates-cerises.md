@@ -64,5 +64,3 @@ steps:
   - 'Sortez le plat, écrasez légèrement les tomates cerises à l''aide d''une fourchette (ou coupez-les en deux) et remettez au four pendant 2 à 3 minutes pour que les tomates se mélangent à la sauce.'
   - 'Dressez le plat en ajoutant du basilic frais. Servez avec une demi-burrata par assiette, arrosez d''un filet d''huile d''olive et de quelques gouttes de crème de vinaigre balsamique, et poivrez selon vos goûts.'
 ---
-
-Une recette maison pour 4 personnes, simple à refaire.

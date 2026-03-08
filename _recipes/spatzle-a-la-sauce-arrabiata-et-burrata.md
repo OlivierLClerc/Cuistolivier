@@ -70,5 +70,3 @@ steps:
   - 'Versez la sauce arrabiata dans la poêle pour enrober les spätzle. Ajoutez une bonne poignée d’emmental râpé, mélangez bien pour le faire fondre et assaisonnez avec du poivre.'
   - 'Hors du feu, déposez les deux boules de burrata au centre du plat. Coupez-les pour qu’elles se répandent sur les pâtes. Parsemez de cacahuètes torréfiées.'
 ---
-
-Une recette maison pour 4 personnes, simple à refaire.

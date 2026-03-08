@@ -49,5 +49,3 @@ steps:
   - 'Faites cuire la crêpe pendant environ 4-5 minutes de chaque côté, jusqu''à ce qu''elle soit dorée et croustillante. Répétez l''opération avec le reste de la pâte.'
   - 'Servez les kimchijeon chauds, garnis de graines de sésame et d''oignons nouveaux hachés si désiré.'
 ---
-
-Une recette maison pour 4 personnes, simple à refaire.

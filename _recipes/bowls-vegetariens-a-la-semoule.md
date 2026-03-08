@@ -83,5 +83,3 @@ steps:
   - 'Versez la semoule dans un saladier ou un contenant adapté, ajoutez l’eau bouillante salée, couvrez et laissez gonfler pendant 5 minutes, puis aérez la semoule à la fourchette et ajoutez une noix de beurre pour la rendre plus moelleuse.'
   - 'Répartissez la semoule dans 4 bols, ajoutez les légumes préparés, déposez les tranches d’halloumi grillé (optionnel pour une version vegan) et arrosez de sriracha mayo selon vos envies.'
 ---
-
-Une recette maison pour 4 personnes, simple à refaire.

@@ -55,5 +55,3 @@ steps:
   - 'Ajoutez la maïzena, la sauce soja, le sel, le poivre et les épices de votre choix (curry, paprika fumé, cumin...). Mélangez bien.'
   - 'Mettez le tofu émietté au four à 180° pendant environ 30 minutes, arrosez d''huile végétale.'
 ---
-
-Une recette maison pour 4 personnes, simple à refaire.

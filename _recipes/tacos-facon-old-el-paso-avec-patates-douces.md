@@ -75,5 +75,3 @@ steps:
   - 'Chauffez les galettes selon les instructions du paquet. Sur chaque galette, étalez une généreuse couche de sauce fromagère, ajoutez les morceaux de poulet, les frites de patates douces et les dés d’avocat, puis pliez la galette en repliant les côtés vers le centre et les bords du haut et du bas pour former un taco fermé.'
   - 'Faites chauffer une poêle à feu très vif, déposez les tacos pliés dans la poêle et faites-les saisir.'
 ---
-
-Une recette maison pour 4 personnes, simple à refaire.
