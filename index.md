@@ -1,3 +1,4 @@
+---
 layout: recipes
 title: "Recettes"
 description: "Toutes les recettes de Cuist'Olivier."
