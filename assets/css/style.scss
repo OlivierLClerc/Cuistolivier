@@ -372,6 +372,18 @@ h3 {
   overflow: hidden;
 }
 
+.recipe-card__image--placeholder {
+  display: grid;
+  place-items: center;
+  padding: 36px;
+  background: var(--bg);
+  color: var(--accent-dark);
+  font-family: "Cormorant Garamond", serif;
+  font-size: clamp(2rem, 4vw, 3rem);
+  line-height: 1.15;
+  text-align: center;
+}
+
 .recipe-card__body {
   display: grid;
   gap: 14px;
@@ -415,6 +427,14 @@ h3 {
 .recipe-hero__grid {
   grid-template-columns: 0.92fr 1.08fr;
   align-items: center;
+}
+
+.recipe-hero__grid--text {
+  grid-template-columns: minmax(0, 1fr);
+}
+
+.recipe-hero__grid--text h1 {
+  max-width: 20ch;
 }
 
 .recipe-hero__copy {
@@ -511,6 +531,18 @@ h3 {
 .ingredient-list li + li,
 .step-list li + li {
   margin-top: 12px;
+}
+
+.ingredient-group-title,
+.recipe-step-group h3 {
+  margin: 24px 0 16px;
+  font-size: 1.65rem;
+  line-height: 1.15;
+}
+
+.recipe-step-group + .recipe-step-group,
+.recipe-tips {
+  margin-top: 32px;
 }
 
 .step-list li::marker {

@@ -8,15 +8,15 @@ prep_time: '20 min'
 cook_time: '30 min'
 total_time: '50 min'
 diet:
-  vegan: 'adaptable'
+  vegan: 'inherent'
   gluten_free: 'none'
-  vegetarian: 'none'
+  vegetarian: 'inherent'
 ingredients:
-  - name: 'Kimchi'
+  - name: 'Kimchi végétarien'
     quantity: 200
     unit: 'g'
     optional: false
-    notes: ''
+    notes: 'Sans sauce de poisson ni crustacés'
   - name: 'Farine de blé'
     quantity: 100
     unit: 'g'

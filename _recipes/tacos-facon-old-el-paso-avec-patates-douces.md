@@ -10,14 +10,14 @@ total_time: '1 heure'
 diet:
   vegan: 'none'
   gluten_free: 'none'
-  vegetarian: 'none'
+  vegetarian: 'inherent'
 ingredients:
   - name: 'Old El Paso French Tacos Kit'
     quantity: 1
     unit: 'boîte'
     optional: false
     notes: ''
-  - name: 'Poulet'
+  - name: 'Nuggets végétariens'
     quantity: 600
     unit: 'g'
     optional: false
@@ -69,9 +69,9 @@ ingredients:
     notes: ''
 steps:
   - 'Préchauffez le four à 180-200 °C (thermostat 6-7). Épluchez les patates douces et coupez-les en petites frites. Disposez-les sur une plaque recouverte de papier sulfurisé, arrosez d’un filet d’huile, salez, mélangez bien et enfournez pendant environ 35 à 40 minutes, jusqu’à ce qu’elles soient tendres.'
-  - 'Préchauffez le four selon les instructions du kit. Émincez l’oignon et disposez-le dans un plat allant au four avec les morceaux de poulet. Saupoudrez le mélange d’épices du kit sur le poulet, mélangez bien pour enrober, enfournez et laissez cuire environ 20 minutes (vous pouvez l''enfourner avec les patates douces).'
+  - 'Émincez l’oignon et disposez-le dans un plat allant au four avec un filet d’huile et une partie des épices du kit. Faites-le rôtir avec les patates douces pendant environ 20 minutes. Faites cuire les nuggets végétariens selon les instructions de leur paquet, au four ou à la poêle. Ajoutez le reste des épices en fin de cuisson, puis coupez les nuggets en morceaux.'
   - 'Mélangez le cheddar râpé, l’emmental râpé et la crème fraîche dans un bol. Chauffez le mélange au micro-ondes (suivez les instructions du paquet), puis mélangez jusqu’à obtenir une sauce homogène. Vous pouvez en préparer un peu plus si nécessaire.'
   - 'Coupez l’avocat en dés et arrosez-le de jus de citron vert pour éviter qu’il noircisse et ajouter une touche d’acidité.'
-  - 'Chauffez les galettes selon les instructions du paquet. Sur chaque galette, étalez une généreuse couche de sauce fromagère, ajoutez les morceaux de poulet, les frites de patates douces et les dés d’avocat, puis pliez la galette en repliant les côtés vers le centre et les bords du haut et du bas pour former un taco fermé.'
+  - 'Chauffez les galettes selon les instructions du paquet. Sur chaque galette, étalez une généreuse couche de sauce fromagère, ajoutez les morceaux de nuggets végétariens, l’oignon rôti, les frites de patates douces et les dés d’avocat, puis pliez la galette en repliant les côtés vers le centre et les bords du haut et du bas pour former un taco fermé.'
   - 'Faites chauffer une poêle à feu très vif, déposez les tacos pliés dans la poêle et faites-les saisir.'
 ---

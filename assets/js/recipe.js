@@ -5,13 +5,13 @@
     return;
   }
 
-  const list = recipeRoot.querySelector(".js-ingredient-list");
+  const lists = Array.from(recipeRoot.querySelectorAll(".js-ingredient-list"));
   const dataNode = recipeRoot.querySelector(".js-ingredients-data");
   const servingsInput = recipeRoot.querySelector(".js-servings");
   const toggles = Array.from(recipeRoot.querySelectorAll(".js-diet"));
   const baseServings = Number(recipeRoot.dataset.baseServings || 1);
   const ingredients = JSON.parse(dataNode.textContent || "[]");
-  const priority = ["vegan", "gluten_free", "vegetarian"];
+  const priority = ["vegan", "gluten_free"];
   const formatter = new Intl.NumberFormat("fr-FR", {
     maximumFractionDigits: 2
   });
@@ -68,9 +68,13 @@
     const factor = servings / baseServings;
     const selectedDiets = getSelectedDiets();
 
-    list.innerHTML = ingredients
-      .map((ingredient) => `<li>${ingredientLine(ingredient, factor, selectedDiets)}</li>`)
-      .join("");
+    lists.forEach((list) => {
+      const group = list.dataset.ingredientGroup || "";
+      list.innerHTML = ingredients
+        .filter((ingredient) => (ingredient.group || "") === group)
+        .map((ingredient) => `<li>${ingredientLine(ingredient, factor, selectedDiets)}</li>`)
+        .join("");
+    });
   }
 
   servingsInput.addEventListener("input", render);

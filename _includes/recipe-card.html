@@ -1,20 +1,24 @@
 {% assign recipe = include.recipe %}
 <article class="recipe-card">
-  <a class="recipe-card__image" href="{{ recipe.url | relative_url }}">
-    <img src="{{ recipe.hero_image | relative_url }}" alt="{{ recipe.title }}">
+  <a class="recipe-card__image{% unless recipe.hero_image %} recipe-card__image--placeholder{% endunless %}" href="{{ recipe.url | relative_url }}">
+    {% if recipe.hero_image %}
+      <img src="{{ recipe.hero_image | relative_url }}" alt="{{ recipe.title }}">
+    {% else %}
+      <span>{{ recipe.image_label | default: recipe.title }}</span>
+    {% endif %}
   </a>
 
   <div class="recipe-card__body">
-    <div class="badge-row">
-      {% include diet-badges.html item=recipe %}
-    </div>
+    {% capture badges %}{% include diet-badges.html item=recipe %}{% endcapture %}
+    {% assign badges = badges | strip %}
+    {% if badges != '' %}<div class="badge-row">{{ badges }}</div>{% endif %}
 
     <h3><a href="{{ recipe.url | relative_url }}">{{ recipe.title }}</a></h3>
     <p>{{ recipe.excerpt | strip_html | strip | truncate: 135 }}</p>
 
     <div class="recipe-card__meta">
       <span>{{ recipe.total_time }}</span>
-      <span>{{ recipe.base_servings }} pers.</span>
+      <span>{{ recipe.servings_label | default: recipe.base_servings }} pers.</span>
     </div>
   </div>
 </article>

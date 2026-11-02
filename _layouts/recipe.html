@@ -2,13 +2,13 @@
 layout: default
 ---
 {% assign has_options = false %}
-{% if page.diet.vegan != 'none' or page.diet.gluten_free != 'none' or page.diet.vegetarian != 'none' %}
+{% if page.diet.vegan != 'none' or page.diet.gluten_free != 'none' %}
   {% assign has_options = true %}
 {% endif %}
 
 <article class="recipe-page js-recipe" data-base-servings="{{ page.base_servings }}">
   <section class="recipe-hero">
-    <div class="site-frame recipe-hero__grid">
+    <div class="site-frame recipe-hero__grid{% unless page.hero_image %} recipe-hero__grid--text{% endunless %}">
       <div class="recipe-hero__copy">
         <p class="eyebrow">Recette</p>
         <h1>{{ page.title }}</h1>
@@ -17,9 +17,10 @@ layout: default
         </div>
 
         <div class="recipe-meta">
-          <span>Pour {{ page.base_servings }} personnes</span>
+          <span>Pour {{ page.servings_label | default: page.base_servings }} personnes</span>
           <span>Préparation {{ page.prep_time }}</span>
           <span>Cuisson {{ page.cook_time }}</span>
+          {% if page.rest_time %}<span>Repos {{ page.rest_time }}</span>{% endif %}
           <span>Total {{ page.total_time }}</span>
         </div>
 
@@ -30,14 +31,16 @@ layout: default
           </p>
         {% endif %}
 
-        <div class="badge-row">
-          {% include diet-badges.html item=page %}
-        </div>
+        {% capture badges %}{% include diet-badges.html item=page %}{% endcapture %}
+        {% assign badges = badges | strip %}
+        {% if badges != '' %}<div class="badge-row">{{ badges }}</div>{% endif %}
       </div>
 
-      <figure class="recipe-hero__media">
-        <img src="{{ page.hero_image | relative_url }}" alt="{{ page.title }}">
-      </figure>
+      {% if page.hero_image %}
+        <figure class="recipe-hero__media">
+          <img src="{{ page.hero_image | relative_url }}" alt="{{ page.title }}">
+        </figure>
+      {% endif %}
     </div>
   </section>
 
@@ -76,39 +79,58 @@ layout: default
                     <span>Sans gluten{% if page.diet.gluten_free == 'adaptable' %} adaptable{% endif %}</span>
                   </label>
                 {% endif %}
-                {% if page.diet.vegetarian != 'none' %}
-                  <label class="toggle">
-                    <input
-                      class="js-diet"
-                      type="checkbox"
-                      value="vegetarian"
-                      {% if page.diet.vegetarian == 'inherent' %}checked disabled{% endif %}
-                    >
-                    <span>Végétarien{% if page.diet.vegetarian == 'adaptable' %} adaptable{% endif %}</span>
-                  </label>
-                {% endif %}
               </div>
             </div>
           {% endif %}
 
           <div class="ingredient-block">
             <h2>Ingrédients</h2>
-            <ul class="ingredient-list js-ingredient-list">
-              {% for ingredient in page.ingredients %}
-                <li>{% include ingredient-line.html ingredient=ingredient %}</li>
-              {% endfor %}
-            </ul>
+            {% assign ingredient_groups = page.ingredients | group_by: 'group' %}
+            {% for group in ingredient_groups %}
+              {% if group.name != '' %}
+                <h3 class="ingredient-group-title">{{ group.name }}</h3>
+              {% endif %}
+              <ul class="ingredient-list js-ingredient-list" data-ingredient-group="{{ group.name | escape }}">
+                {% for ingredient in group.items %}
+                  <li>{% include ingredient-line.html ingredient=ingredient %}</li>
+                {% endfor %}
+              </ul>
+            {% endfor %}
           </div>
         </div>
       </aside>
 
       <div class="recipe-content">
         <h2>Préparation</h2>
-        <ol class="step-list">
-          {% for step in page.steps %}
-            <li>{{ step }}</li>
+        {% if page.step_sections %}
+          {% for section in page.step_sections %}
+            <section class="recipe-step-group">
+              <h3>{{ forloop.index }}. {{ section.title }}</h3>
+              <ol class="step-list">
+                {% for step in section.steps %}
+                  <li>{{ step }}</li>
+                {% endfor %}
+              </ol>
+            </section>
           {% endfor %}
-        </ol>
+        {% else %}
+          <ol class="step-list">
+            {% for step in page.steps %}
+              <li>{{ step }}</li>
+            {% endfor %}
+          </ol>
+        {% endif %}
+
+        {% if page.tips %}
+          <section class="recipe-tips">
+            <h2>Conseils</h2>
+            <ul class="ingredient-list">
+              {% for tip in page.tips %}
+                <li><strong>{{ tip.label }} :</strong> {{ tip.text }}</li>
+              {% endfor %}
+            </ul>
+          </section>
+        {% endif %}
       </div>
     </div>
   </section>
