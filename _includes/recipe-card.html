@@ -14,11 +14,9 @@
     {% if badges != '' %}<div class="badge-row">{{ badges }}</div>{% endif %}
 
     <h3><a href="{{ recipe.url | relative_url }}">{{ recipe.title }}</a></h3>
-    <p>{{ recipe.excerpt | strip_html | strip | truncate: 135 }}</p>
 
     <div class="recipe-card__meta">
       <span>{{ recipe.total_time }}</span>
-      <span>{{ recipe.servings_label | default: recipe.base_servings }} pers.</span>
     </div>
   </div>
 </article>

@@ -5,7 +5,6 @@ sort_order: 0
 hero_image: '/assets/images/recipes/poire_vanille_choco.jpg'
 image: '/assets/images/recipes/poire_vanille_choco.jpg'
 base_servings: 8
-servings_label: '6 à 8'
 prep_time: '35 min'
 cook_time: '45 à 50 min'
 rest_time: '2 à 3 h environ'
@@ -86,7 +85,7 @@ step_sections:
   - title: 'Pocher les poires'
     steps:
       - >-
-        Épluchez les poires en les conservant entières, avec leur queue si possible.
+        Épluchez les poires en les conservant entières.
       - >-
         Fendez la gousse de vanille dans la longueur et récupérez les graines. Placez les graines et la gousse dans une casserole avec l'eau et le sucre.
       - >-
@@ -118,7 +117,7 @@ step_sections:
       - >-
         Versez une première couche de pâte au fond du moule, puis disposez les trois poires pochées debout, alignées dans la longueur.
       - >-
-        Répartissez la pâte autour des poires, sans nécessairement les recouvrir entièrement. Veillez à laisser suffisamment de place pour que le cake puisse gonfler. Selon la taille des poires et du moule, toute la pâte ne sera pas forcément nécessaire.
+        Répartissez la pâte autour des poires. Veillez à laisser suffisamment de place pour que le cake puisse gonfler. Selon la taille des poires et du moule, toute la pâte ne sera pas forcément nécessaire.
       - >-
         Enfournez pendant environ 45 à 50 minutes. Vérifiez la cuisson à cœur en plantant un couteau ou un pic dans la pâte, à côté des poires. Il doit ressortir sans pâte crue. Prolongez la cuisson si nécessaire.
       - >-
@@ -138,7 +137,7 @@ step_sections:
 tips:
   - label: 'Poires'
     text: >-
-      Choisissez des poires Conférence mûres mais encore fermes, afin qu'elles conservent leur forme après le pochage et la cuisson au four.
+      Choisissez des poires Conférence mûres mais encore fermes, afin qu'elles conservent leur forme après le pochage et la cuisson au four. Si elles ne sont pas complètement recouvertes par l'appareil à cake, vous pouvez couper leur partie supérieure pour qu'elles le soient.
   - label: 'Vanille'
     text: >-
       Les gousses utilisées pour l'infusion du lait peuvent être récupérées et ajoutées au sirop de pochage pour renforcer son parfum.
@@ -153,4 +152,4 @@ tips:
       Conservez le cake glacé au réfrigérateur et sortez-le environ 30 minutes avant de le déguster pour retrouver une texture plus moelleuse.
 ---
 
-Un cake moelleux à la vanille, garni de trois poires Conférence pochées entières et recouvert d'une ganache au chocolat blanc et à la vanille.
+Un cake moelleux à la vanille et aux poires pochées, recouvert d'une ganache au chocolat blanc et à la vanille.

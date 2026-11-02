@@ -78,6 +78,11 @@ ingredients:
     optional: true
     notes: 'Danmuji, facultatif'
     group: 'Garniture'
+  - name: 'Kimchi végétarien'
+    quantity: null
+    optional: true
+    notes: 'Sans sauce de poisson ni crustacés, facultatif'
+    group: 'Garniture'
 step_sections:
   - title: 'Préparer les légumes'
     steps:
@@ -142,7 +147,7 @@ step_sections:
       - >-
         Ajoutez quelques fines lamelles de concombre frais sur le dessus.
       - >-
-        Servez éventuellement avec du radis jaune mariné coréen en accompagnement.
+        Servez éventuellement avec du radis jaune mariné coréen et du kimchi végétarien en accompagnement.
       - >-
         Mélangez soigneusement les nouilles avec la sauce juste avant de déguster.
 tips:

@@ -12,12 +12,8 @@ layout: default
       <div class="recipe-hero__copy">
         <p class="eyebrow">Recette</p>
         <h1>{{ page.title }}</h1>
-        <div class="recipe-hero__lede">
-          {{ content }}
-        </div>
 
         <div class="recipe-meta">
-          <span>Pour {{ page.servings_label | default: page.base_servings }} personnes</span>
           <span>Préparation {{ page.prep_time }}</span>
           <span>Cuisson {{ page.cook_time }}</span>
           {% if page.rest_time %}<span>Repos {{ page.rest_time }}</span>{% endif %}

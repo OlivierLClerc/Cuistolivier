@@ -30,9 +30,10 @@ ingredients:
     quantity: 720
     unit: 'ml'
     notes: 'Environ, à ajuster selon la consistance souhaitée'
-  - name: 'Curry japonais Golden Curry'
-    quantity: null
-    notes: "Version douce ou épicée, dosage selon la quantité d’eau et les indications du paquet"
+  - name: 'de curry japonais Golden Curry'
+    quantity: 1
+    unit: 'boîte'
+    notes: 'Version douce ou épicée'
   - name: 'de nuggets végétariens'
     quantity: 2
     unit: 'boîtes'
@@ -58,7 +59,7 @@ steps:
 tips:
   - label: 'Golden Curry'
     text: >-
-      Choisissez la version douce ou épicée selon vos envies. Dosez les blocs de curry selon les indications du paquet et la quantité d'eau utilisée.
+      Pour les quantités de base (4 personnes), utilisez une boîte entière de Golden Curry, même si le paquet indique 5 portions. Choisissez la version douce ou épicée selon vos envies.
   - label: 'Nuggets croustillants'
     text: >-
       Gardez les nuggets à part jusqu'au service : en les ajoutant seulement au dernier moment dans l'assiette, ils ne s'imbibent pas de sauce et leur panure reste en place.
