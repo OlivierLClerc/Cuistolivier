@@ -47,7 +47,7 @@ ingredients:
     unit: 'petit bouquet'
     optional: false
     notes: ''
-  - name: 'Farce végétale (type Accro) ou bœuf haché'
+  - name: 'Farce végétale (type Accro)'
     quantity: 400
     unit: 'g'
     optional: false
@@ -91,7 +91,7 @@ steps:
   - 'Rincez le riz blanc à l''eau claire jusqu''à ce que l''eau devienne légèrement translucide. Placez-le dans une casserole, ajoutez de l''eau jusqu''à environ 1 cm au-dessus du riz. Ajoutez les feuilles de laurier, la badiane et éventuellement le bâton de cannelle.'
   - 'Portez à ébullition, puis baissez le feu, couvrez et laissez cuire à feu doux environ 10 minutes, jusqu''à absorption complète de l''eau (plus ou moins)'
   - 'Pendant ce temps, ciselez finement l''oignon blanc, le bouquet de coriandre et celui de menthe. Réservez.'
-  - 'Faites chauffer un peu d''huile dans un wok à feu vif. Ajoutez les épices choisies (curry, piment, cumin) et incorporez la farce végétale (ou le bœuf haché). Assaisonnez avec du paprika fumé et du sel.'
+  - 'Faites chauffer un peu d''huile dans un wok à feu vif. Ajoutez les épices choisies (curry, piment, cumin) et incorporez la farce végétale. Assaisonnez avec du paprika fumé et du sel.'
   - 'Quand la farce est bien saisie, ajoutez l''oignon blanc en fin de cuisson pour qu''il reste légèrement croquant. Incorporez les herbes ciselées et déglacez avec un peu de sauce soja. Mélangez bien.'
   - 'Pour le dressage, disposez du riz blanc dans un bol, ajoutez le mélange de farce végétale et d’herbes par-dessus. Terminez avec un filet de sriracha, quelques graines de sésame ou des cacahuètes torréfiées, et des rondelles d''oignon nouveau au centre.'
 ---
