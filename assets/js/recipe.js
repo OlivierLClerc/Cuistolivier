@@ -16,12 +16,17 @@
     maximumFractionDigits: 2
   });
 
-  function formatQuantity(quantity, factor) {
+  function formatQuantity(quantity, factor, quantityMax) {
     if (typeof quantity !== "number" || Number.isNaN(quantity)) {
       return "";
     }
 
-    return formatter.format(quantity * factor);
+    const minimum = formatter.format(quantity * factor);
+    if (typeof quantityMax === "number" && Number.isFinite(quantityMax)) {
+      return `${minimum} à ${formatter.format(quantityMax * factor)}`;
+    }
+
+    return minimum;
   }
 
   function getSelectedDiets() {
@@ -43,7 +48,7 @@
   }
 
   function ingredientLine(ingredient, factor, selectedDiets) {
-    const quantity = formatQuantity(ingredient.quantity, factor);
+    const quantity = formatQuantity(ingredient.quantity, factor, ingredient.quantity_max);
     const parts = [];
 
     if (quantity) {

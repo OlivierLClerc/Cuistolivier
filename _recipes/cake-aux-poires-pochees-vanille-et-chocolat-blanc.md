@@ -2,7 +2,8 @@
 title: 'Cake aux poires pochées, vanille et chocolat blanc'
 slug: 'cake-aux-poires-pochees-vanille-et-chocolat-blanc'
 sort_order: 0
-image_label: 'Poire · Vanille · Chocolat blanc'
+hero_image: '/assets/images/recipes/poire_vanille_choco.jpg'
+image: '/assets/images/recipes/poire_vanille_choco.jpg'
 base_servings: 8
 servings_label: '6 à 8'
 prep_time: '35 min'

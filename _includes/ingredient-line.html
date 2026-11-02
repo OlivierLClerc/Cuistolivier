@@ -1,7 +1,7 @@
 {% assign ingredient = include.ingredient %}
 {% assign ingredient_name = include.name | default: ingredient.name %}
 {% capture line %}
-  {% if ingredient.quantity != nil %}{{ ingredient.quantity }} {% endif %}
+  {% if ingredient.quantity != nil %}{{ ingredient.quantity }}{% if ingredient.quantity_max != nil %} à {{ ingredient.quantity_max }}{% endif %} {% endif %}
   {% if ingredient.unit %}{{ ingredient.unit }} {% endif %}
   {{ ingredient_name }}{% if ingredient.notes %} ({{ ingredient.notes }}){% endif %}
 {% endcapture %}
