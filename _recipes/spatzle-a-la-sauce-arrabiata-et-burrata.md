@@ -1,8 +1,7 @@
 ---
-title: 'Spätzle à la sauce arrabiata et burrata'
+title: 'Spätzle à la sauce arrabbiata et burrata'
 slug: 'spatzle-a-la-sauce-arrabiata-et-burrata'
 sort_order: 2
-hero_image: '/assets/images/recipes/spatzle-arrabiata-burrata.svg'
 base_servings: 4
 prep_time: '5 min'
 cook_time: '15 min'
@@ -17,7 +16,7 @@ ingredients:
     unit: 'paquets'
     optional: false
     notes: ''
-  - name: 'Sauce arrabiata'
+  - name: 'Sauce arrabbiata'
     quantity: 1
     unit: 'bocal'
     optional: false
@@ -67,6 +66,6 @@ steps:
   - 'Pelez et hachez les gousses d’ail, puis ajoutez-les à la poêle. Faites revenir en remuant régulièrement pour éviter qu’elles ne brûlent. Si vous aimez les plats relevés, ajoutez un peu de piment à ce stade.'
   - 'Incorporez les spätzle dans la poêle. Faites-les dorer à feu vif pour obtenir une texture légèrement croustillante, puis baissez un peu le feu pour poursuivre la cuisson.'
   - 'Ajoutez les boulettes végétales aux spätzle et laissez cuire le tout environ 8 minutes, en mélangeant régulièrement.'
-  - 'Versez la sauce arrabiata dans la poêle pour enrober les spätzle. Ajoutez une bonne poignée d’emmental râpé, mélangez bien pour le faire fondre et assaisonnez avec du poivre.'
+  - 'Versez la sauce arrabbiata dans la poêle pour enrober les spätzle. Ajoutez une bonne poignée d’emmental râpé, mélangez bien pour le faire fondre et assaisonnez avec du poivre.'
   - 'Hors du feu, déposez les deux boules de burrata au centre du plat. Coupez-les pour qu’elles se répandent sur les pâtes. Parsemez de cacahuètes torréfiées.'
 ---
