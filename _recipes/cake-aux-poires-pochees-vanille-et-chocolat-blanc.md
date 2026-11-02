@@ -9,6 +9,8 @@ prep_time: '35 min'
 cook_time: '45 à 50 min'
 rest_time: '2 à 3 h environ'
 total_time: '3 h 20 à 4 h 25'
+source_label: 'Valrhona Collection'
+source_url: 'https://www.valrhona-collection.com/blogs/recettes/cake-vanille-poires-pochees'
 diet:
   vegan: 'none'
   gluten_free: 'none'
@@ -91,7 +93,7 @@ step_sections:
       - >-
         Vérifiez la cuisson avec la pointe d'un couteau : les poires doivent être tendres, mais encore suffisamment fermes pour se tenir.
       - >-
-        Retirez les poires du sirop et laissez-les refroidir et bien s'égoutter.
+        Retirez les poires du sirop et laissez-les refroidir et bien s'égoutter. Conservez le sirop de pochage pour la dégustation.
   - title: "Préparer l'appareil à cake"
     steps:
       - >-
@@ -139,6 +141,9 @@ tips:
   - label: 'Vanille'
     text: >-
       Les gousses utilisées pour l'infusion du lait peuvent être récupérées et ajoutées au sirop de pochage pour renforcer son parfum.
+  - label: 'Sirop de pochage'
+    text: >-
+      Gardez le sirop de pochage des poires : vous pouvez en imbiber légèrement le cake refroidi au moment de la dégustation, pour lui apporter une touche supplémentaire de poire et de vanille.
   - label: 'Cuisson'
     text: >-
       La présence des poires apporte beaucoup d'humidité au gâteau. Vérifiez bien la cuisson de la pâte autour des fruits, plutôt que de vous fier uniquement au temps indiqué.
